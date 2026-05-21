@@ -2,6 +2,7 @@ version: '3.8'
 
 services:
   backend:
+    image: realprojeeeeet-backend
     build: 
       context: ./Lang
       dockerfile: Dockerfile
@@ -12,6 +13,7 @@ services:
     restart: unless-stopped
 
   frontend:
+    image: realprojeeeeet-frontend
     build:
       context: ./campus-compass-main/campus-compass-main
       dockerfile: Dockerfile
