@@ -2,19 +2,22 @@ pipeline {
     agent any
 
     environment {
-        // Load the secret file injected by Jenkins step 7
-        ENV_FILE = credentials('ENV')
+        // Load both secret files injected by Jenkins
+        ENV_BACKEND = credentials('ENV_BACKEND')
+        ENV_FRONTEND = credentials('ENV_FRONTEND')
     }
 
     stages {
         stage('Prepare Environment') {
             steps {
                 script {
-                    // Copy the secure .env file to the backend
+                    // Copy the secure .env files to their respective folders
                     if (isUnix()) {
-                        sh 'cp $ENV_FILE ./Lang/.env'
+                        sh 'cp $ENV_BACKEND ./Lang/.env'
+                        sh 'cp $ENV_FRONTEND ./campus-compass-main/campus-compass-main/.env'
                     } else {
-                        bat 'copy "%ENV_FILE%" ".\\Lang\\.env"'
+                        bat 'copy "%ENV_BACKEND%" ".\\Lang\\.env"'
+                        bat 'copy "%ENV_FRONTEND%" ".\\campus-compass-main\\campus-compass-main\\.env"'
                     }
                 }
             }
@@ -73,11 +76,13 @@ pipeline {
     post {
         always {
             script {
-                // Security Cleanup: Delete the .env file so it doesn't stay on the server
+                // Security Cleanup: Delete the .env files so they don't stay on the server
                 if (isUnix()) {
                     sh 'rm -f ./Lang/.env'
+                    sh 'rm -f ./campus-compass-main/campus-compass-main/.env'
                 } else {
                     bat 'if exist ".\\Lang\\.env" del ".\\Lang\\.env"'
+                    bat 'if exist ".\\campus-compass-main\\campus-compass-main\\.env" del ".\\campus-compass-main\\campus-compass-main\\.env"'
                 }
             }
         }
