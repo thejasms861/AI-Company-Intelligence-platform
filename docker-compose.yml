@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  backend:
+    build: 
+      context: ./Lang
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./Lang/.env
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./campus-compass-main/campus-compass-main
+      dockerfile: Dockerfile
+    ports:
+      - "80:80" # Maps localhost:80 to container port 80
+    depends_on:
+      - backend
+    restart: unless-stopped

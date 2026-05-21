@@ -1,0 +1,208 @@
+const fs = require('fs');
+const path = require('path');
+const target = path.join(process.cwd(), 'schema', 'company_full.json');
+
+// Re-generating the 22-company data with perfect syntax
+const data = [
+  {
+    "company_id": 1,
+    "name": "Postman, Inc.",
+    "short_name": "Postman",
+    "category": "Private SaaS / Tech Scale-up (Unicorn)",
+    "incorporation_year": 2014,
+    "overview": {
+      "description": "World’s leading AI-native API platform covering design, testing, collaboration, governance, and monitoring.",
+      "nature_of_company": "Private",
+      "headquarters": "San Francisco, USA",
+      "vision": "API-first world for 100M developers",
+      "mission": "Simplify API lifecycle",
+      "values": ["Create with curiosity", "Earn trust", "Embrace constraints", "Win together", "Own & deliver"]
+    }
+  },
+  {
+    "company_id": 2,
+    "name": "Microsoft Corporation (Power BI Division)",
+    "short_name": "Microsoft Power BI",
+    "category": "Enterprise (Public Technology Company)",
+    "incorporation_year": 1975,
+    "overview": {
+      "description": "Unified AI-powered business intelligence platform for data visualization, analytics, and enterprise decision-making.",
+      "nature_of_company": "Public (Product Division)",
+      "headquarters": "Redmond, USA",
+      "vision": "Empower every person and organization with data-driven insights",
+      "mission": "Provide scalable self-service and enterprise BI platform",
+      "values": ["Integrity", "Accountability", "Respect", "Growth Mindset", "Innovation", "Customer Obsession"]
+    }
+  },
+  {
+    "company_id": 3,
+    "name": "Practo Technologies Private Limited",
+    "short_name": "Practo",
+    "category": "Healthtech Startup",
+    "incorporation_year": 2008,
+    "overview": {
+       "description": "Integrated digital healthcare platform connecting patients with doctors, diagnostics, and medicine delivery services.",
+       "nature_of_company": "Private",
+       "headquarters": "Bangalore, India"
+    }
+  },
+  {
+    "company_id": 4,
+    "name": "Preferred Networks, Inc.",
+    "short_name": "Preferred Networks",
+    "category": "DeepTech AI Startup",
+    "incorporation_year": 2014,
+    "overview": {
+      "description": "Preferred Networks is a deep-tech AI company focused on vertically integrated AI solutions spanning hardware, software, and real-world applications like robotics and manufacturing.",
+      "nature_of_company": "Private",
+      "headquarters": "Tokyo, Japan"
+    }
+  },
+  {
+    "company_id": 5,
+    "name": "Proactively Inc.",
+    "short_name": "Proactively",
+    "category": "Startup",
+    "incorporation_year": 2019,
+    "overview": { "description": "Healthtech platform focused on Lifestyle Medicine and chronic disease reversal.", "nature_of_company": "Private", "headquarters": "Orlando, Florida, USA" }
+  },
+  {
+    "company_id": 6,
+    "name": "Prodapt Solutions Private Limited",
+    "short_name": "Prodapt",
+    "category": "SMB (IT Services / Telecom Consulting)",
+    "incorporation_year": 1999,
+    "overview": { "description": "AI-first digital and network transformation provider focused on telecom, media, and technology industries.", "nature_of_company": "Private", "headquarters": "Chennai, India" }
+  },
+  {
+    "company_id": 7,
+    "name": "Publicis Groupe S.A.",
+    "short_name": "Publicis Groupe",
+    "category": "Enterprise",
+    "incorporation_year": 1926,
+    "overview": { "description": "Global leader in advertising, marketing, and digital transformation.", "nature_of_company": "Public", "headquarters": "Paris, France" }
+  },
+  {
+    "company_id": 8,
+    "name": "Publicis Sapient",
+    "short_name": "Publicis Sapient",
+    "category": "Enterprise",
+    "incorporation_year": 1990,
+    "overview": { "description": "Global digital transformation and consulting company delivering enterprise AI platforms.", "nature_of_company": "Subsidiary (Publicis Groupe)", "headquarters": "Boston, USA" }
+  },
+  {
+    "company_id": 9,
+    "name": "PwC Acceleration Centre India Private Limited",
+    "short_name": "PwC Acceleration Centre India",
+    "category": "Subsidiary",
+    "incorporation_year": 2010,
+    "overview": { "description": "Global delivery hubs providing consulting, technology, tax, and audit services.", "nature_of_company": "Subsidiary", "headquarters": "Global" }
+  },
+  {
+    "company_id": 10,
+    "name": "PwC Acceleration Centre (Regional)",
+    "short_name": "PwC AC",
+    "category": "Subsidiary",
+    "incorporation_year": 2010,
+    "overview": { "description": "PwC Acceleration Centres are global delivery hubs.", "nature_of_company": "Subsidiary", "headquarters": "Global" }
+  },
+  {
+    "company_id": 11,
+    "name": "Qualcomm Incorporated",
+    "short_name": "Qualcomm",
+    "category": "Enterprise",
+    "incorporation_year": 1985,
+    "overview": { "description": "Global leader in semiconductor and wireless technology.", "nature_of_company": "Public", "headquarters": "San Diego, USA" }
+  },
+  {
+    "company_id": 12,
+    "name": "Quest Global Services Pte. Ltd.",
+    "short_name": "Quest Global",
+    "category": "Enterprise",
+    "incorporation_year": 1997,
+    "overview": { "description": "Engineering services firm specializing in product engineering.", "nature_of_company": "Private", "headquarters": "Singapore" }
+  },
+  {
+    "company_id": 13,
+    "name": "Quora Poe",
+    "short_name": "Poe",
+    "category": "Startup",
+    "incorporation_year": 2022,
+    "overview": { "description": "AI platform by Quora aggregating multiple AI models.", "nature_of_company": "Subsidiary (Quora)", "headquarters": "Mountain View, USA" }
+  },
+  {
+    "company_id": 14,
+    "name": "Rapido",
+    "short_name": "Rapido",
+    "category": "Startup",
+    "incorporation_year": 2015,
+    "overview": { "description": "India's leading bike-taxi and ride-hailing platform.", "nature_of_company": "Private", "headquarters": "Bengaluru, India" }
+  },
+  {
+    "company_id": 15,
+    "name": "Rappi S.A.S.",
+    "short_name": "Rappi",
+    "category": "Startup",
+    "incorporation_year": 2015,
+    "overview": { "description": "Latin American super-app offering on-demand delivery.", "nature_of_company": "Private", "headquarters": "Bogotá, Colombia" }
+  },
+  {
+    "company_id": 16,
+    "name": "Razorpay Software Private Limited",
+    "short_name": "Razorpay",
+    "category": "Startup",
+    "incorporation_year": 2014,
+    "overview": { "description": "Indian fintech company providing payment gateway solutions.", "nature_of_company": "Private", "headquarters": "Bengaluru, India" }
+  },
+  {
+    "company_id": 17,
+    "name": "Redfin Corporation",
+    "short_name": "Redfin",
+    "category": "Enterprise",
+    "incorporation_year": 2004,
+    "overview": { "description": "Technology-powered real estate brokerage.", "nature_of_company": "Public", "headquarters": "Seattle, USA" }
+  },
+  {
+    "company_id": 18,
+    "name": "Red Hat, Inc.",
+    "short_name": "Red Hat",
+    "category": "Enterprise",
+    "incorporation_year": 1993,
+    "overview": { "description": "Global leader in enterprise open-source software.", "nature_of_company": "Subsidiary (IBM)", "headquarters": "Raleigh, USA" }
+  },
+  {
+    "company_id": 19,
+    "name": "Redis Inc.",
+    "short_name": "Redis",
+    "category": "Enterprise",
+    "incorporation_year": 2011,
+    "overview": { "description": "Leading real-time data platform providing in-memory database solutions.", "nature_of_company": "Private", "headquarters": "San Francisco, USA" }
+  },
+  {
+    "company_id": 20,
+    "name": "Replit, Inc.",
+    "short_name": "Replit",
+    "category": "Startup",
+    "incorporation_year": 2016,
+    "overview": { "description": "AI-powered cloud development platform.", "nature_of_company": "Private", "headquarters": "San Francisco, USA" }
+  },
+  {
+    "company_id": 21,
+    "name": "Retool, Inc.",
+    "short_name": "Retool",
+    "category": "Startup",
+    "incorporation_year": 2017,
+    "overview": { "description": "Low-code platform for building internal tools.", "nature_of_company": "Private", "headquarters": "San Francisco, USA" }
+  },
+  {
+    "company_id": 22,
+    "name": "Revolut Group Holdings Ltd",
+    "short_name": "Revolut",
+    "category": "Startup",
+    "incorporation_year": 2015,
+    "overview": { "description": "Global fintech super-app offering digital banking services.", "nature_of_company": "Private", "headquarters": "London, UK" }
+  }
+];
+
+fs.writeFileSync(target, JSON.stringify(data, null, 2), 'utf8');
+console.log('Fixed and Restoration complete.');

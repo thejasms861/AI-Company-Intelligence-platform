@@ -1,0 +1,3949 @@
+[{
+  "company_name": "Postman",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Development Engineer (SDE I)",
+      "role_category": "SDE",
+      "job_description": "Design, develop, and maintain scalable backend and frontend systems for Postman’s API platform. Work on REST APIs, microservices, and cloud-native applications. Collaborate with cross-functional teams to improve API development workflows, optimize performance, and ensure high availability.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 1800000,
+      "bonus": "Performance bonus + ESOPs",
+      "benefits_summary": "Health insurance, flexible work hours, remote work support, learning budget, ESOPs",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Assessment",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Implement LRU Cache; Find the longest substring without repeating characters; Merge k sorted linked lists"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Explain time complexity of quicksort; Difference between stack and queue; How does a hash map work internally?"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Probability of drawing specific cards from a deck; Time and work problems; Logical puzzles involving seating arrangement"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Detect cycle in a linked list; Find median of two sorted arrays; Implement binary search variations"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design a URL shortener; Explain SOLID principles; Design a parking lot system"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "What is a deadlock and how to prevent it?; Difference between process and thread; Explain virtual memory"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design a scalable API rate limiter; Design a chat system; How would you scale a REST API?"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "What is load balancing?; Explain microservices architecture; Difference between IaaS, PaaS, SaaS"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Explain CI/CD pipeline; How do you ensure code quality?; What is version control and branching strategy?"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "HR + Managerial Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Tell me about yourself; Describe a challenging project; Why Postman?"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "How do you handle deadlines?; Experience working in teams; Handling production issues"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational judgment questions; Decision-making scenarios; Conflict resolution examples"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in building and improving Postman’s API tools. Work on frontend/backend tasks, debug issues, write clean code, and collaborate with senior engineers. Exposure to real-world product development and API ecosystems.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 80000,
+      "bonus": "Performance-based PPO offer",
+      "benefits_summary": "Flexible work, mentorship, learning resources, potential PPO",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Reverse a linked list; Two sum problem; Valid parentheses check"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Explain recursion with example; Difference between array and linked list; Basic tree traversal"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Basic probability questions; Speed-distance-time problems; Number series"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Find duplicates in array; String compression problem; Rotate matrix"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design a simple note-taking app; Basics of class and objects; Explain inheritance and polymorphism"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "What is a thread?; Explain scheduling; Basics of memory management"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why do you want this internship?; Your strengths and weaknesses; Describe a project you worked on"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "How do you learn new technologies?; Experience with Git; Working in teams"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Problem-solving approach; Decision making under pressure"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Power BI (Microsoft)",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Data Analyst - Power BI",
+      "role_category": "Data_Analyst",
+      "job_description": "Develop interactive dashboards and reports using Power BI. Work with large datasets, perform data cleaning, transformation, and modeling. Collaborate with stakeholders to derive business insights and optimize reporting solutions using DAX, SQL, and Azure services.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 1400000,
+      "bonus": "Performance bonus + joining bonus",
+      "benefits_summary": "Health insurance, stock awards, hybrid work, learning programs, wellness benefits",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Assessment",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Profit and loss problems; Data interpretation with charts; Logical reasoning puzzles"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Write a query to find second highest salary; Joins vs subqueries; Group by and having clause examples"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Basics of data analysis workflow; What is supervised vs unsupervised learning?; Use cases of predictive analytics"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Explain normalization; Write query for cumulative sum; Window functions usage"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain regression vs classification; What is overfitting?; Feature engineering techniques"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Explain ETL process; Data pipeline architecture; Version control basics"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Optimize a slow query; Difference between clustered and non-clustered index; Transactions and ACID properties"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "What is Azure Data Factory?; Data warehousing concepts; Cloud storage types"
+            },
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Explain a dashboard you built; Communicating insights to non-technical stakeholders; Handling ambiguous requirements"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "HR + Managerial Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Tell me about yourself; Why Microsoft?; Describe a challenge you faced"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Team collaboration experience; Handling deadlines; Learning new tools quickly"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational judgment questions; Decision-making scenarios; Conflict resolution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Business Intelligence Intern (Power BI)",
+      "role_category": "Data_Analyst",
+      "job_description": "Assist in creating dashboards and reports using Power BI. Work with datasets to clean, transform, and visualize data. Support business teams in extracting insights and improving reporting efficiency.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 70000,
+      "bonus": "Potential PPO based on performance",
+      "benefits_summary": "Mentorship, flexible work, access to Microsoft learning resources, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Basic select queries; Joins and aggregations; Filtering data with conditions"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Basic quantitative aptitude; Logical puzzles; Data interpretation"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Basics of data analytics; Difference between data and information; Visualization importance"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Write query for top N records; Explain joins with examples; Group by usage"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain basic statistics concepts; Mean, median, mode differences; Data cleaning steps"
+            },
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Explain a project; Presenting insights; Communication clarity"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this role?; Strengths and weaknesses; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork experience; Handling feedback; Learning new tools"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Problem-solving mindset"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Practo",
+
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Development Engineer (SDE I)",
+      "role_category": "SDE",
+      "job_description": "Build scalable healthcare technology solutions including appointment booking systems, patient records, and telemedicine platforms. Work on backend services, REST APIs, and database optimization while ensuring high availability and security for healthcare data.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 1200000,
+      "bonus": "Performance bonus + ESOPs",
+      "benefits_summary": "Health insurance, wellness benefits, ESOPs, flexible work, learning programs",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Two sum problem; Longest common prefix; Check if string is palindrome"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Explain linked list operations; Stack vs queue differences; Tree traversal methods"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Probability problems; Time and distance; Logical reasoning puzzles"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Find cycle in linked list; Binary search implementation; Find kth largest element"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design a hospital management system; Explain OOP principles; Design a notification system"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process vs thread; Deadlock conditions; Memory management basics"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design appointment booking system; Design scalable notification service; Handle concurrent requests in system"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Write query for patient records; Normalization concepts; Indexing and query optimization"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Explain agile methodology; Code optimization techniques; Debugging strategies"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "HR + Managerial Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Tell me about yourself; Why Practo?; Describe a challenging situation"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork experience; Handling pressure; Meeting deadlines"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational judgment; Conflict resolution; Decision making"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Work on healthcare platform features including backend APIs and frontend components. Assist in debugging, writing efficient code, and collaborating with engineering teams to improve user experience and system performance.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 60000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Mentorship, flexible hours, learning opportunities, PPO offer",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Reverse a string; Find duplicates in array; Check balanced parentheses"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array vs linked list; Basic recursion; Stack operations"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Basic arithmetic problems; Logical reasoning; Number series"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Find missing number; String manipulation problems; Rotate array"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Basics of OOP; Design a simple booking system; Explain inheritance"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "What is a process?; Scheduling basics; Memory allocation"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why internship at Practo?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Learning new technologies; Team collaboration; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Problem-solving approach; Decision making"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Preferred Networks",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Machine Learning Engineer",
+      "role_category": "Data_Scientist",
+      "job_description": "Develop advanced machine learning and deep learning models for real-world applications such as robotics, healthcare, and autonomous systems. Work with large-scale datasets, optimize models, and deploy them in production environments using modern AI frameworks.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 2500000,
+      "bonus": "Performance bonus + research incentives",
+      "benefits_summary": "Health insurance, research grants, flexible work, relocation support, conference sponsorships",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Assessment",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Implement matrix multiplication; Optimize array operations; Solve dynamic programming problems"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain gradient descent; Difference between CNN and RNN; What is backpropagation?"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Probability distributions; Linear algebra basics; Logical puzzles"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain bias-variance tradeoff; What is overfitting and underfitting?; Regularization techniques"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Graph traversal algorithms; Complexity of algorithms; Data structures for large datasets"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Implement BFS/DFS; Solve shortest path problem; Optimize recursive solutions"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Design a neural network for image classification; Explain transformer architecture; How to deploy ML models?"
+            },
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design scalable ML pipeline; Data preprocessing architecture; Model serving systems"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Use of GPUs in cloud; Distributed training; Containerization basics"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Research + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Explain your research/project; Why Preferred Networks?; Future goals"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Discuss recent ML paper; Innovations in AI; Ethical AI concerns"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Collaboration in research teams; Handling failures; Project lifecycle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "AI Research Intern",
+      "role_category": "Data_Scientist",
+      "job_description": "Assist in cutting-edge AI research projects involving deep learning, robotics, and large-scale data analysis. Implement prototypes, experiment with models, and contribute to research publications.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 120000,
+      "bonus": "Potential full-time offer",
+      "benefits_summary": "Research mentorship, access to GPU clusters, flexible work, publication opportunities",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Matrix operations; Basic algorithm problems; Implement sorting algorithms"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Basics of machine learning; Supervised vs unsupervised learning; Loss functions"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Linear algebra questions; Probability basics; Logical reasoning"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain neural networks; Optimization techniques; Model evaluation metrics"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Implement recursion problems; Graph traversal; Dynamic programming basics"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Tree structures; Complexity analysis; Data handling techniques"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR + Research Discussion",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Explain your projects; Interest in AI research; Career goals"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Discuss AI trends; Recent projects; Ethical considerations"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Team collaboration; Learning approach; Handling research challenges"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Proactively Inc.",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Backend Software Engineer",
+      "role_category": "SDE",
+      "job_description": "Design and develop scalable backend systems, APIs, and microservices for enterprise SaaS solutions. Work with databases, cloud infrastructure, and distributed systems to ensure performance, reliability, and security.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 1000000,
+      "bonus": "Performance bonus",
+      "benefits_summary": "Health insurance, flexible work, startup equity options, learning stipend",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Assessment",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Find first non-repeating character; Implement queue using stacks; String compression problem"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Explain time complexity of merge sort; Hashing techniques; Tree traversal methods"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Number series; Logical puzzles; Basic probability problems"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Find intersection of two linked lists; Sliding window problems; Binary search applications"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design a file storage system; Explain OOP principles; Design a logging system"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process scheduling; Deadlock detection; Virtual memory concepts"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design a scalable notification system; API rate limiting strategies; Caching mechanisms"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Write query for top users; Indexing strategies; Database normalization"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Basics of AWS services; Load balancing concepts; Containerization with Docker"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Managerial + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Tell me about yourself; Why join a startup?; Describe a challenge you faced"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Handling deadlines; Working in agile teams; Code ownership experience"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational judgment; Decision making; Conflict resolution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in backend development, API integration, and debugging. Work closely with senior engineers to build scalable systems and improve application performance.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 40000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Mentorship, flexible hours, startup exposure, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Reverse an array; Find duplicate numbers; Valid parentheses problem"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Basics of stack and queue; Linked list operations; Recursion basics"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Basic arithmetic; Logical puzzles; Number patterns"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Find missing number; String manipulation; Rotate array"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Basics of OOP; Design a simple API; Explain inheritance"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process basics; Thread vs process; Scheduling concepts"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this internship?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning new tools; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Problem-solving mindset"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Prodapt",
+
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Associate Software Engineer",
+      "role_category": "SDE",
+      "job_description": "Work on telecom and digital service provider solutions. Develop, test, and maintain applications, work on backend systems, APIs, and cloud-based services. Collaborate with cross-functional teams to deliver scalable enterprise solutions.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 600000,
+      "bonus": "Performance bonus",
+      "benefits_summary": "Health insurance, training programs, flexible work, certification support",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Aptitude + Coding Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Time and work problems; Profit and loss; Logical reasoning puzzles"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Find factorial using recursion; Reverse a string; Fibonacci series"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Difference between array and linked list; Stack operations; Queue implementation"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Linked list reversal; Binary search; Sorting algorithms comparison"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Basic select queries; Joins; Group by usage"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process vs thread; Deadlock basics; Memory management"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Managerial Round",
+          "round_category": "Interview",
+          "evaluation_type": "Managerial",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Explain your project; Team collaboration experience; Handling deadlines"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Software development lifecycle; Agile methodology; Debugging approach"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational judgment; Decision making; Conflict resolution"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Tell me about yourself; Why Prodapt?; Strengths and weaknesses"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Willingness to relocate; Career goals; Learning attitude"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Problem-solving mindset; Adaptability"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Graduate Engineer Trainee Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in software development, testing, and debugging for telecom-based applications. Gain exposure to enterprise systems, coding practices, and client-facing solutions.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 25000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Training programs, mentorship, certification opportunities, PPO offer",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Basic arithmetic; Logical reasoning; Number series"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Reverse a number; Check palindrome; Simple loops"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Basics of arrays; Stack vs queue; Recursion basics"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Find largest element; Sorting basics; String operations"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Basic queries; Select and where; Simple joins"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "What is OS?; Process basics; Scheduling basics"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this role?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning attitude; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Publicis",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Data Analyst",
+      "role_category": "Data_Analyst",
+      "job_description": "Analyze marketing and customer data to generate insights for campaigns and business strategies. Build dashboards, perform data cleaning, and work with stakeholders to improve marketing effectiveness using data-driven approaches.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 700000,
+      "bonus": "Performance bonus",
+      "benefits_summary": "Health insurance, flexible work, wellness benefits, learning programs",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Aptitude + Analytics Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Data interpretation with graphs; Profit and loss; Logical reasoning puzzles"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Write query for sales analysis; Joins and aggregations; Group by with conditions"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Basics of data analysis; What is data cleaning?; Importance of visualization"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Explain normalization; Write query for top customers; Window functions basics"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain regression; What is correlation?; Basics of statistics"
+            },
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Explain your project; Present insights; Communicating with stakeholders"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Managerial Round",
+          "round_category": "Interview",
+          "evaluation_type": "Managerial",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Team collaboration experience; Handling deadlines; Conflict resolution"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Understanding business requirements; Problem-solving approach; Data-driven decisions"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational judgment; Decision making; Analytical thinking"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Tell me about yourself; Why Publicis?; Strengths and weaknesses"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Career goals; Learning attitude; Adaptability"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Work ethics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Marketing Analytics Intern",
+      "role_category": "Data_Analyst",
+      "job_description": "Support data analysis for marketing campaigns, assist in building dashboards, and help in extracting insights from campaign data to improve business outcomes.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 30000,
+      "bonus": "PPO opportunity",
+      "benefits_summary": "Mentorship, flexible work, exposure to marketing analytics, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Basic arithmetic; Logical reasoning; Data interpretation"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Basic select queries; Simple joins; Filtering data"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Basics of data analysis; What is visualization?; Data vs information"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Write query for dataset; Group by basics; Aggregation functions"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain mean, median, mode; Basics of statistics; Data cleaning steps"
+            },
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Explain your project; Communication clarity; Presenting insights"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why internship?; Strengths and weaknesses; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Publicis Sapient",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Associate Software Engineer",
+      "role_category": "SDE",
+      "job_description": "Develop and maintain enterprise-grade digital transformation solutions. Work on full-stack development, APIs, cloud-based systems, and collaborate with global teams to deliver scalable and efficient applications.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 850000,
+      "bonus": "Performance bonus",
+      "benefits_summary": "Health insurance, flexible work, global exposure, learning programs, certification support",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Assessment",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Time and work; Profit and loss; Logical reasoning puzzles"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Reverse a string; Fibonacci series; Basic recursion problems"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array vs linked list; Stack operations; Queue basics"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Binary search; Linked list reversal; Sorting algorithms"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Basic joins; Group by usage; Select queries"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process vs thread; Deadlock basics; Memory management"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Explain OOP principles; Design a simple web application; Class vs object"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Software development lifecycle; Agile methodology; Debugging strategies"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Basics of cloud computing; AWS services overview; Deployment strategies"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Managerial + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Tell me about yourself; Why Publicis Sapient?; Team experience"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Handling deadlines; Working in teams; Adaptability"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational judgment; Decision making; Conflict resolution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Technology Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in software development, testing, and debugging tasks. Gain exposure to enterprise applications, coding standards, and modern development practices.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 35000,
+      "bonus": "PPO opportunity",
+      "benefits_summary": "Mentorship, training programs, certification opportunities, PPO offer",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Basic arithmetic; Logical reasoning; Number series"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Reverse a number; Check palindrome; Basic loops"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Basics of arrays; Stack vs queue; Recursion basics"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Find largest element; Sorting basics; String manipulation"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Basic queries; Select and where; Simple joins"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "What is OS?; Process basics; Scheduling basics"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this role?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "PWC Acceleration Centre",
+
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Data Analyst Associate",
+      "role_category": "Data_Analyst",
+      "job_description": "Work on data-driven consulting projects, perform data analysis, create dashboards, and support business decision-making using tools like SQL, Excel, and Power BI. Collaborate with global teams to deliver insights and improve operational efficiency.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 800000,
+      "bonus": "Performance bonus",
+      "benefits_summary": "Health insurance, hybrid work, learning programs, certification support, wellness benefits",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Aptitude + Analytics Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Data interpretation; Probability problems; Logical reasoning puzzles"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Write query for sales data; Joins and aggregations; Group by usage"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Basics of data analytics; What is ETL?; Importance of data visualization"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Explain normalization; Write query for top customers; Window functions basics"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain regression; Basics of statistics; Data cleaning techniques"
+            },
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Explain your project; Present insights; Stakeholder communication"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Managerial Round",
+          "round_category": "Interview",
+          "evaluation_type": "Managerial",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Team collaboration; Handling deadlines; Conflict resolution"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Problem-solving approach; Understanding business needs; Analytical thinking"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational judgment; Decision making; Case-based questions"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Tell me about yourself; Why PwC?; Strengths and weaknesses"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Career goals; Adaptability; Learning mindset"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Work ethics; Decision making"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Data Analytics Intern",
+      "role_category": "Data_Analyst",
+      "job_description": "Assist in data analysis, reporting, and dashboard creation. Work with datasets to extract insights and support consulting teams in delivering business solutions.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 40000,
+      "bonus": "PPO opportunity",
+      "benefits_summary": "Mentorship, certification access, flexible work, PPO offer",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Basic arithmetic; Logical reasoning; Data interpretation"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Basic select queries; Simple joins; Filtering data"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Basics of data analysis; Data vs information; Visualization importance"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Write query for dataset; Group by basics; Aggregation functions"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain mean, median, mode; Basics of statistics; Data cleaning steps"
+            },
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Explain your project; Communication clarity; Presenting insights"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why internship?; Strengths and weaknesses; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "QICAP Markets LLP",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Quantitative Analyst",
+      "role_category": "Data_Scientist",
+      "job_description": "Develop quantitative models for trading and financial analysis. Work with large financial datasets, perform statistical modeling, and build algorithms for risk management, pricing, and forecasting in capital markets.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 1800000,
+      "bonus": "Performance bonus + profit sharing",
+      "benefits_summary": "Health insurance, trading incentives, flexible work, learning programs",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Quant Aptitude Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Probability puzzles; Expected value problems; Combinatorics questions"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Basics of statistics; Regression concepts; Time series fundamentals"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Implement basic algorithms; Array manipulation; Mathematical computations"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain stochastic processes; What is Monte Carlo simulation?; Risk modeling basics"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Time complexity analysis; Data structures for large datasets; Sorting and searching"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Implement binary search; Solve recursion problems; Optimize algorithms"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Time series forecasting models; ARIMA basics; Portfolio optimization"
+            },
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design trading system; Handle real-time data streams; Low latency system design"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Query financial data; Aggregation and joins; Indexing strategies"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "HR + Trading Fit Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why quantitative finance?; Explain your projects; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Handling pressure; Decision making under uncertainty; Team collaboration"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Market scenario questions; Logical reasoning; Risk-based decisions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Quant Research Intern",
+      "role_category": "Data_Scientist",
+      "job_description": "Assist in developing financial models, analyzing market data, and testing trading strategies. Work on statistical analysis and gain exposure to capital markets and algorithmic trading.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 70000,
+      "bonus": "Performance-based PPO",
+      "benefits_summary": "Mentorship, exposure to trading systems, flexible work, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Probability basics; Combinatorics; Logical puzzles"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Basic algorithm problems; Array operations; Mathematical logic"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Statistics basics; Mean, variance; Regression introduction"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Explain regression; Time series basics; Hypothesis testing"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Implement sorting; Solve recursion problems; Basic DP problems"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array vs linked list; Complexity analysis; Data structures basics"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why quant role?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Learning approach; Teamwork; Handling challenges"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Analytical thinking"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Qualcomm",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Embedded Software Engineer",
+      "role_category": "SDE",
+      "job_description": "Develop low-level software and firmware for Qualcomm chipsets. Work on device drivers, embedded systems, and performance optimization. Collaborate with hardware teams to ensure efficient integration of software with processors and communication modules.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 2000000,
+      "bonus": "Joining bonus + performance bonus + RSUs",
+      "benefits_summary": "Health insurance, stock options, flexible work, relocation benefits, learning programs",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Bit manipulation problems; Reverse bits of a number; Check power of two"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array manipulation; Linked list basics; Stack operations"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Number systems; Logical reasoning; Quantitative aptitude"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process vs thread; Scheduling algorithms; Deadlock conditions"
+            },
+            {
+              "skill_set_code": "NETW",
+              "typical_questions": "OSI model; TCP vs UDP; Basics of wireless communication"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Pointer manipulation in C; Memory allocation; Debugging code"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Virtual memory; Paging vs segmentation; Interrupt handling"
+            },
+            {
+              "skill_set_code": "NETW",
+              "typical_questions": "Routing protocols; Congestion control; Network security basics"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Embedded system design; Debugging strategies; Code optimization"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Managerial + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Tell me about yourself; Why Qualcomm?; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Team collaboration; Handling deadlines; Learning new technologies"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational judgment; Decision making; Problem-solving approach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Embedded Systems Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in development and testing of embedded systems software. Work with low-level programming, debugging, and hardware interaction under the guidance of experienced engineers.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 90000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Mentorship, access to hardware labs, flexible work, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Assessment",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Basic bit manipulation; Reverse number; Check palindrome"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array basics; Stack vs queue; Linked list operations"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Number systems; Logical reasoning; Quantitative aptitude"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "What is OS?; Process basics; Scheduling concepts"
+            },
+            {
+              "skill_set_code": "NETW",
+              "typical_questions": "Basics of networking; OSI layers; TCP/IP overview"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Pointer basics; Simple C programs; Memory handling"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "On Campus",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this internship?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning attitude; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Quest Global",
+
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Engineer",
+      "role_category": "SDE",
+      "job_description": "Develop engineering and digital solutions for industries such as aerospace, automotive, and energy. Work on software development, system integration, and testing while collaborating with global engineering teams.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 550000,
+      "bonus": "Performance bonus",
+      "benefits_summary": "Health insurance, training programs, global exposure, certification support",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Aptitude + Technical Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Time and distance; Profit and loss; Logical reasoning puzzles"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Reverse a string; Fibonacci series; Basic recursion problems"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array vs linked list; Stack operations; Queue basics"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Binary search; Linked list reversal; Sorting algorithms"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process vs thread; Deadlock basics; Memory management"
+            },
+            {
+              "skill_set_code": "NETW",
+              "typical_questions": "OSI model; TCP/IP basics; Network layers"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Managerial Round",
+          "round_category": "Interview",
+          "evaluation_type": "Managerial",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Explain your project; Team collaboration; Handling deadlines"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Software lifecycle; Debugging approach; Problem-solving"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational judgment; Decision making; Conflict resolution"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Tell me about yourself; Why Quest Global?; Strengths and weaknesses"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Career goals; Adaptability; Learning attitude"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Work ethics; Decision making"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Graduate Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in software development, testing, and engineering solutions. Gain exposure to real-world engineering problems and enterprise-level systems.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 20000,
+      "bonus": "PPO opportunity",
+      "benefits_summary": "Training programs, mentorship, certification opportunities, PPO offer",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Aptitude",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Basic arithmetic; Logical reasoning; Number series"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Reverse a number; Check palindrome; Basic loops"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Basics of arrays; Stack vs queue; Recursion basics"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Find largest element; Sorting basics; String manipulation"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "What is OS?; Process basics; Scheduling basics"
+            },
+            {
+              "skill_set_code": "NETW",
+              "typical_questions": "Basics of networking; OSI layers; TCP/IP overview"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "On Campus",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this role?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Quora Poe",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Engineer - AI Platform",
+      "role_category": "SDE",
+      "job_description": "Build and scale AI-powered conversational platforms like Poe. Work on backend systems, APIs, and LLM integrations. Optimize latency, reliability, and user experience for real-time AI applications.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 2800000,
+      "bonus": "Performance bonus + RSUs",
+      "benefits_summary": "Health insurance, remote-first culture, stock options, learning budget, flexible work",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding + Problem Solving",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Implement LFU cache; Longest increasing subsequence; String pattern matching"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Explain dynamic programming; Graph traversal techniques; Complexity optimization"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Probability questions; Analytical reasoning"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Design autocomplete system; Sliding window problems; Trie implementation"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design messaging system; Explain OOP principles; Design scalable APIs"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Threading and concurrency; Process synchronization; Memory management"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "How do LLMs work?; Transformer architecture basics; Prompt engineering techniques"
+            },
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design a chatbot system; Scale real-time messaging; Rate limiting strategies"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Distributed systems basics; Load balancing; Cloud deployment strategies"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Hiring Manager + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why Quora/Poe?; Discuss your projects; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Handling ambiguity; Product thinking; Collaboration experience"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Scenario-based reasoning; Decision making; Problem-solving approach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern - AI",
+      "role_category": "SDE",
+      "job_description": "Work on AI-driven features for conversational platforms. Assist in backend development, LLM integration, and experimentation with AI models to improve user experience.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 120000,
+      "bonus": "High chance of PPO",
+      "benefits_summary": "Remote work, mentorship, cutting-edge AI exposure, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Two sum; Valid parentheses; Binary search problems"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array vs linked list; Recursion basics; Tree traversal"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Probability basics; Number patterns"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window problems; String manipulation; Graph basics"
+            },
+            {
+              "skill_set_code": "AI",
+              "typical_questions": "Basics of machine learning; What is NLP?; Simple neural networks"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design simple chatbot; Basics of OOP; Class design"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this internship?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Rappi",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Development Engineer",
+      "role_category": "SDE",
+      "job_description": "Build scalable systems for Rappi’s on-demand delivery platform. Work on backend services, real-time order processing, payments, and logistics optimization. Collaborate with global teams to enhance performance and user experience.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 1800000,
+      "bonus": "Performance bonus + ESOPs",
+      "benefits_summary": "Health insurance, stock options, flexible work, global exposure, meal benefits",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Longest substring without repeating characters; Two sum variations; Merge intervals"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Graph traversal (BFS/DFS); Hash maps; Time complexity analysis"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical reasoning; Probability questions; Quantitative aptitude"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Heap-based problems; Sliding window techniques; Recursion problems"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design delivery system; Explain OOP principles; Design notification service"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Concurrency handling; Threads vs processes; Deadlock prevention"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design food delivery system; Real-time tracking; Scaling microservices"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Optimize order queries; Indexing strategies; Transaction management"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Distributed systems; Load balancing; Cloud deployment strategies"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Managerial + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why Rappi?; Project discussion; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Handling production issues; Team collaboration; Ownership mindset"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Scenario-based decisions; Problem-solving; Conflict resolution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in building backend features for delivery services. Work on APIs, debugging, and optimizing system performance under guidance of experienced engineers.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 60000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Mentorship, global exposure, flexible work, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Reverse a string; Two sum; Check palindrome"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array basics; Stack vs queue; Linked list operations"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Number series; Basic probability"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window basics; String manipulation; Recursion problems"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design simple delivery system; Basics of OOP; Class design"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process basics; Thread vs process; Scheduling concepts"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this internship?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "RazorPay",
+
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Development Engineer (Backend)",
+      "role_category": "SDE",
+      "job_description": "Build and scale payment infrastructure systems handling millions of transactions. Work on APIs, microservices, distributed systems, and ensure high availability, security, and performance in fintech applications.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 2200000,
+      "bonus": "Joining bonus + performance bonus + ESOPs",
+      "benefits_summary": "Health insurance, ESOPs, flexible work, meal benefits, wellness programs",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "LRU cache implementation; Longest substring without repeating characters; Merge intervals"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Hashing techniques; Graph traversal; Time complexity optimization"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Probability; Quantitative reasoning"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window problems; Heap problems; Recursion challenges"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design payment gateway; Explain OOP principles; Design wallet system"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Concurrency handling; Deadlocks; Threads vs processes"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Office",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design payment processing system; Handle transaction failures; Scaling microservices"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Optimize transaction queries; Indexing strategies; ACID properties"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Distributed systems; Load balancing; Cloud infrastructure design"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Managerial + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Office",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why Razorpay?; Project discussion; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Handling production issues; Team collaboration; Ownership mindset"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Scenario-based decisions; Problem-solving; Conflict resolution"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in building fintech products, APIs, and backend services. Work on debugging, improving performance, and contributing to real-world payment systems.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 80000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Mentorship, fintech exposure, flexible work, PPO opportunity",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Two sum; Valid parentheses; Binary search"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array basics; Stack vs queue; Linked list operations"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Number series; Basic probability"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window; String manipulation; Recursion problems"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design simple wallet system; Basics of OOP; Class design"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process basics; Thread vs process; Scheduling concepts"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this internship?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Redfin",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Engineer",
+      "role_category": "SDE",
+      "job_description": "Develop scalable real estate platforms including search, listing management, and transaction systems. Work on backend services, APIs, and frontend integrations to improve user experience and performance.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 1700000,
+      "bonus": "Performance bonus + RSUs",
+      "benefits_summary": "Health insurance, stock options, flexible work, learning budget, wellness programs",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Longest substring without repeating characters; Merge intervals; Binary search variations"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Tree traversal; Graph basics; Hashing techniques"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Probability questions; Quantitative reasoning"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window problems; Heap problems; Recursion challenges"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design property listing system; Explain OOP principles; Design search functionality"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Concurrency; Threads vs processes; Deadlocks"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design real estate search system; Caching strategies; Scaling services"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Optimize queries; Indexing; Database normalization"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Distributed systems; Load balancing; Cloud deployment"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Managerial + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why Redfin?; Project discussion; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Handling production issues; Team collaboration; Ownership mindset"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Scenario-based decisions; Problem-solving; Conflict resolution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in building features for real estate platforms, work on APIs, debugging, and improving system performance under guidance of experienced engineers.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 70000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Mentorship, flexible work, real-world project exposure, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Two sum; Valid parentheses; Binary search"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array basics; Stack vs queue; Linked list operations"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Number series; Basic probability"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window; String manipulation; Recursion problems"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design simple listing system; Basics of OOP; Class design"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process basics; Thread vs process; Scheduling concepts"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this internship?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "RedHat",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Engineer (Open Source)",
+      "role_category": "SDE",
+      "job_description": "Develop and contribute to open-source enterprise software solutions such as Linux, Kubernetes, and cloud platforms. Work on system-level programming, distributed systems, and collaborate with global open-source communities.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 1800000,
+      "bonus": "Performance bonus + RSUs",
+      "benefits_summary": "Health insurance, open-source contribution time, flexible work, learning programs, stock options",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding + MCQ Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Implement LRU cache; String parsing problems; Bit manipulation questions"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process vs thread; Scheduling algorithms; Deadlock conditions"
+            },
+            {
+              "skill_set_code": "NETW",
+              "typical_questions": "TCP/IP basics; OSI layers; Network protocols"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Virtual memory; Paging vs segmentation; File system basics"
+            },
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Pointer manipulation in C; Debugging code; Memory management"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Trees and graphs; Complexity analysis; Data structure selection"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design distributed system; Scaling microservices; Caching strategies"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Kubernetes basics; Container orchestration; Cloud-native architecture"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Open-source contribution workflow; Code review practices; CI/CD pipelines"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Managerial + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Office",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why Red Hat?; Open-source experience; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Collaboration in distributed teams; Handling feedback; Ownership mindset"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Scenario-based questions; Decision making; Problem-solving"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern (Open Source)",
+      "role_category": "SDE",
+      "job_description": "Assist in developing and contributing to open-source projects. Work on system-level programming, debugging, and collaborate with engineering teams on real-world problems.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 80000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Mentorship, open-source exposure, flexible work, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Reverse a string; Two sum; Bit manipulation basics"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array basics; Stack vs queue; Linked list operations"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Basics of OS; Process vs thread; Scheduling basics"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "String manipulation; Recursion problems; Basic graph traversal"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Memory management; File systems; Process lifecycle"
+            },
+            {
+              "skill_set_code": "NETW",
+              "typical_questions": "Basic networking; OSI layers; TCP/IP overview"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why open source?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Redis Labs",
+
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Engineer (Distributed Systems)",
+      "role_category": "SDE",
+      "job_description": "Design and develop high-performance in-memory data systems using Redis. Work on distributed systems, caching, replication, and persistence mechanisms to ensure low-latency and highly available services.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 2600000,
+      "bonus": "Performance bonus + RSUs",
+      "benefits_summary": "Health insurance, stock options, remote work, learning budget, wellness benefits",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "LRU cache implementation; Sliding window problems; Binary search variations"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Hash maps; Trees and graphs; Complexity analysis"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Probability; Analytical reasoning"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Implement cache eviction policies; Heap problems; Recursion challenges"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Concurrency; Threads vs processes; Deadlock prevention"
+            },
+            {
+              "skill_set_code": "NETW",
+              "typical_questions": "TCP/IP basics; Latency vs throughput; Network bottlenecks"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Office",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design distributed cache system; Data partitioning; Replication strategies"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Distributed systems; Load balancing; Cloud-native architectures"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Query optimization; Indexing strategies; NoSQL vs SQL differences"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Managerial + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Office",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why Redis?; Project discussion; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Handling production issues; Team collaboration; Ownership mindset"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Scenario-based decisions; Problem-solving; Conflict resolution"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in building and optimizing in-memory data systems. Work on backend development, debugging, and performance tuning under guidance of senior engineers.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 100000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Mentorship, distributed systems exposure, remote work, PPO opportunity",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Two sum; Valid parentheses; Binary search"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array basics; Stack vs queue; Linked list operations"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Number series; Basic probability"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window; String manipulation; Recursion problems"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process basics; Thread vs process; Scheduling concepts"
+            },
+            {
+              "skill_set_code": "NETW",
+              "typical_questions": "Basics of networking; OSI layers; TCP/IP overview"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this internship?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Replit",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Engineer (Platform)",
+      "role_category": "SDE",
+      "job_description": "Build and scale Replit’s online coding platform. Work on cloud-based development environments, real-time collaboration systems, and backend infrastructure to support millions of developers globally.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 3000000,
+      "bonus": "Performance bonus + RSUs",
+      "benefits_summary": "Remote-first culture, stock options, flexible work, learning budget, wellness benefits",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding + Problem Solving",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Implement LFU cache; Longest increasing subsequence; Graph shortest path"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Dynamic programming concepts; Graph algorithms; Complexity optimization"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Probability; Analytical reasoning"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Design collaborative editor; Sliding window problems; Trie implementation"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design IDE system; Explain OOP principles; Design real-time collaboration system"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Concurrency and threads; Process synchronization; Memory management"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design cloud IDE; Real-time sync system; Scaling distributed services"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Containerization; Kubernetes basics; Cloud infrastructure"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "CI/CD pipelines; Code review practices; Debugging distributed systems"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Hiring Manager + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why Replit?; Project discussion; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Ownership mindset; Handling ambiguity; Team collaboration"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Scenario-based reasoning; Decision making; Problem-solving approach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in building features for Replit’s cloud IDE platform. Work on backend systems, debugging, and improving performance with guidance from experienced engineers.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 120000,
+      "bonus": "High PPO conversion rate",
+      "benefits_summary": "Remote work, mentorship, cutting-edge platform exposure, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Two sum; Valid parentheses; Binary search"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array basics; Stack vs queue; Linked list operations"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Number series; Basic probability"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window; String manipulation; Recursion problems"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design simple editor; Basics of OOP; Class design"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process basics; Thread vs process; Scheduling concepts"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this internship?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Retool",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Engineer (Full Stack)",
+      "role_category": "SDE",
+      "job_description": "Build internal tool development platforms used by companies worldwide. Work on frontend and backend systems, APIs, integrations, and performance optimization to enable rapid application development.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 2800000,
+      "bonus": "Performance bonus + RSUs",
+      "benefits_summary": "Health insurance, stock options, remote work, learning budget, flexible hours",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding + Problem Solving",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "LRU cache implementation; Longest substring without repeating characters; Binary search variations"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Hash maps; Trees and graphs; Time complexity optimization"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Probability; Analytical reasoning"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Design dynamic form builder; Sliding window problems; Recursion challenges"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design internal tool builder; Explain OOP principles; Design component system"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Frontend-backend communication; API design; Debugging techniques"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design dashboard builder; Data fetching optimization; Scaling web apps"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Cloud deployment; Load balancing; Microservices architecture"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Optimize queries; Indexing strategies; Data modeling"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Hiring Manager + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why Retool?; Project discussion; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Ownership mindset; Handling ambiguity; Team collaboration"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Scenario-based reasoning; Decision making; Problem-solving approach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in building features for internal tool platforms. Work on frontend/backend components, debugging, and improving performance under guidance of senior engineers.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 100000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Remote work, mentorship, product exposure, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Two sum; Valid parentheses; Binary search"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array basics; Stack vs queue; Linked list operations"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Number series; Basic probability"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window; String manipulation; Recursion problems"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design simple form builder; Basics of OOP; Class design"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "API basics; Debugging; Frontend-backend interaction"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this internship?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Retool",
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Engineer (Full Stack)",
+      "role_category": "SDE",
+      "job_description": "Build internal tool development platforms used by companies worldwide. Work on frontend and backend systems, APIs, integrations, and performance optimization to enable rapid application development.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 2800000,
+      "bonus": "Performance bonus + RSUs",
+      "benefits_summary": "Health insurance, stock options, remote work, learning budget, flexible hours",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding + Problem Solving",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "LRU cache implementation; Longest substring without repeating characters; Binary search variations"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Hash maps; Trees and graphs; Time complexity optimization"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Probability; Analytical reasoning"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Design dynamic form builder; Sliding window problems; Recursion challenges"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design internal tool builder; Explain OOP principles; Design component system"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Frontend-backend communication; API design; Debugging techniques"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design dashboard builder; Data fetching optimization; Scaling web apps"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Cloud deployment; Load balancing; Microservices architecture"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Optimize queries; Indexing strategies; Data modeling"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Hiring Manager + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why Retool?; Project discussion; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Ownership mindset; Handling ambiguity; Team collaboration"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Scenario-based reasoning; Decision making; Problem-solving approach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in building features for internal tool platforms. Work on frontend/backend components, debugging, and improving performance under guidance of senior engineers.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 100000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Remote work, mentorship, product exposure, PPO opportunity",
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Two sum; Valid parentheses; Binary search"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array basics; Stack vs queue; Linked list operations"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Number series; Basic probability"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window; String manipulation; Recursion problems"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design simple form builder; Basics of OOP; Class design"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "API basics; Debugging; Frontend-backend interaction"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this internship?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "company_name": "Revolut",
+
+  "job_role_details": [
+    {
+      "opportunity_type": "Employment",
+      "role_title": "Software Engineer (Backend - FinTech)",
+      "role_category": "SDE",
+      "job_description": "Develop and scale financial systems including payments, banking APIs, fraud detection, and transaction processing. Work on high-performance distributed systems with a focus on security, reliability, and low latency.",
+      "compensation": "CTC",
+      "ctc_or_stipend": 3000000,
+      "bonus": "Performance bonus + ESOPs",
+      "benefits_summary": "Health insurance, stock options, global exposure, flexible work, wellness programs",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding + Problem Solving",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "LRU cache implementation; Longest substring without repeating characters; Merge intervals"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Graphs and trees; Hashing techniques; Time complexity optimization"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Probability; Analytical reasoning"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview Round 1",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window problems; Heap problems; Recursion challenges"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design banking system; Explain OOP principles; Design wallet system"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Concurrency; Threads vs processes; Deadlock prevention"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "Technical Interview Round 2",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Office",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "SYSD",
+              "typical_questions": "Design payment processing system; Fraud detection architecture; Scaling microservices"
+            },
+            {
+              "skill_set_code": "SQL",
+              "typical_questions": "Optimize transaction queries; Indexing strategies; ACID properties"
+            },
+            {
+              "skill_set_code": "CLOUD",
+              "typical_questions": "Distributed systems; Load balancing; Cloud infrastructure design"
+            }
+          ]
+        },
+        {
+          "round_number": 4,
+          "round_name": "Managerial + HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Office",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why Revolut?; Project discussion; Career goals"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Handling production issues; Team collaboration; Ownership mindset"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Scenario-based decisions; Problem-solving; Conflict resolution"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "opportunity_type": "Internship",
+      "role_title": "Software Engineer Intern",
+      "role_category": "SDE",
+      "job_description": "Assist in building fintech products and backend services. Work on APIs, debugging, and improving system performance while learning about financial systems and distributed architectures.",
+      "compensation": "Stipend",
+      "ctc_or_stipend": 100000,
+      "bonus": "PPO based on performance",
+      "benefits_summary": "Mentorship, fintech exposure, global teams, PPO opportunity",
+
+      "hiring_rounds": [
+        {
+          "round_number": 1,
+          "round_name": "Online Coding Test",
+          "round_category": "Coding Test",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Two sum; Valid parentheses; Binary search"
+            },
+            {
+              "skill_set_code": "DSA",
+              "typical_questions": "Array basics; Stack vs queue; Linked list operations"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Logical puzzles; Number series; Basic probability"
+            }
+          ]
+        },
+        {
+          "round_number": 2,
+          "round_name": "Technical Interview",
+          "round_category": "Interview",
+          "evaluation_type": "Technical",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COD",
+              "typical_questions": "Sliding window; String manipulation; Recursion problems"
+            },
+            {
+              "skill_set_code": "OOD",
+              "typical_questions": "Design simple wallet system; Basics of OOP; Class design"
+            },
+            {
+              "skill_set_code": "OS",
+              "typical_questions": "Process basics; Thread vs process; Scheduling concepts"
+            }
+          ]
+        },
+        {
+          "round_number": 3,
+          "round_name": "HR Round",
+          "round_category": "Interview",
+          "evaluation_type": "HR",
+          "assessment_mode": "Online",
+
+          "skill_sets": [
+            {
+              "skill_set_code": "COMM",
+              "typical_questions": "Why this internship?; Strengths and weaknesses; Project discussion"
+            },
+            {
+              "skill_set_code": "SWE",
+              "typical_questions": "Teamwork; Learning approach; Handling feedback"
+            },
+            {
+              "skill_set_code": "APTI",
+              "typical_questions": "Situational questions; Decision making; Adaptability"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}]
