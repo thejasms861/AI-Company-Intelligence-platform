@@ -35,7 +35,7 @@ pipeline {
                         } else {
                             bat 'npm install'
                             bat 'npm run build'
-                            bat 'docker build -t realprojeeeeet-frontend .'
+                            bat '"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe" build -t realprojeeeeet-frontend .'
                         }
                     }
                 }
@@ -50,7 +50,7 @@ pipeline {
                         if (isUnix()) {
                             sh 'docker build -t realprojeeeeet-backend .'
                         } else {
-                            bat 'docker build -t realprojeeeeet-backend .'
+                            bat '"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe" build -t realprojeeeeet-backend .'
                         }
                     }
                 }
@@ -65,7 +65,7 @@ pipeline {
                         sh 'docker compose up -d'
                         sh 'echo "Agentic Orchestration initialized successfully."'
                     } else {
-                        bat 'docker compose up -d'
+                        bat '"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe" compose up -d'
                         bat 'echo "Agentic Orchestration initialized successfully."'
                     }
                 }
