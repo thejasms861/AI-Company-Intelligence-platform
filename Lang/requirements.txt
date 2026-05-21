@@ -1,0 +1,12 @@
+langgraph
+langchain-core
+langchain-openai
+langchain-google-genai
+langchain-groq
+pydantic
+pydantic-settings
+python-dotenv
+pandas
+
+fastapi
+uvicorn

@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment / Secrets — NEVER commit these
+.env
+*.env
+.env.example
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Generated intelligence output files
+*_intelligence.json
+*_profile.md
+*_result.json
+test_e2e.py
+run_execution.py
+demo_api.py
+demo_sync.py
+test_api.py
+test.txt
+
+# LangGraph internals
+.langgraph_api/
+.langgraph_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment / Secrets — NEVER commit these
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Generated intelligence output files
+*_intelligence.json
+*_profile.md
+execution_result.json
+test_e2e.py
+run_execution.py
+demo_api.py
+demo_sync.py
+test_api.py
+microsoft_sync_result.json
+
+# LangGraph / LangSmith
+.langgraph_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
