@@ -1,0 +1,3923 @@
+[
+  {
+    "company_id": "1",
+    "full_json": {
+      "name": "Postman, Inc.",
+      "risks": {
+        "macro": "High dependency on IT spend",
+        "layoffs": "25% in 2024",
+        "competition": "Very high"
+      },
+      "growth": {
+        "exit": "Strong",
+        "career": "High",
+        "learning": "High"
+      },
+      "market": {
+        "customers": "40M+ developers, 500K+ orgs",
+        "competitors": [
+          "Insomnia",
+          "Hoppscotch",
+          "Apigee",
+          "AWS API Gateway",
+          "Kong"
+        ],
+        "top_clients": [
+          "Microsoft",
+          "Salesforce",
+          "Stripe",
+          "PayPal",
+          "Uber",
+          "Cisco"
+        ],
+        "market_share": "~70% developer mindshare"
+      },
+      "culture": {
+        "dei": "Active",
+        "hours": "40\u201345/week",
+        "ethics": "Strong",
+        "burnout": "Moderate",
+        "feedback": "Continuous",
+        "work_model": "Remote-first",
+        "manager_quality": "Strong",
+        "psychological_safety": "High"
+      },
+      "advanced": {
+        "ip": "API + AI patents",
+        "rnd": "25\u201330%",
+        "macro_risk": "High",
+        "geopolitical": "Low",
+        "supply_chain": "Cloud dependent",
+        "cybersecurity": "Strong"
+      },
+      "benefits": {
+        "bonus": "Moderate",
+        "esops": "Available",
+        "salary": "Competitive",
+        "wellness": "Strong",
+        "insurance": "Family covered"
+      },
+      "category": "Private SaaS / Tech Scale-up (Unicorn)",
+      "logo_url": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
+      "overview": {
+        "values": [
+          "Create with curiosity",
+          "Earn trust",
+          "Embrace constraints",
+          "Win together",
+          "Own & deliver"
+        ],
+        "vision": "API-first world for 100M developers",
+        "mission": "Simplify API lifecycle",
+        "description": "World\u2019s leading AI-native API platform covering design, testing, collaboration, governance, and monitoring.",
+        "headquarters": "San Francisco, USA",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "future": "$300M ARR target by 2027",
+        "priorities": [
+          "AI-native platform",
+          "Git workflows",
+          "Enterprise governance"
+        ]
+      },
+      "ecosystem": {
+        "investors": [
+          "Insight Partners",
+          "CRV",
+          "Nexus",
+          "Battery",
+          "Coatue"
+        ],
+        "associations": [
+          "OpenAPI Initiative",
+          "CNCF",
+          "Linux Foundation"
+        ]
+      },
+      "company_id": "1",
+      "financials": {
+        "growth": "30\u201340%",
+        "runway": "24\u201336 months",
+        "revenue": "$150M\u2013$200M",
+        "burn_rate": "$3M\u2013$5M/month",
+        "valuation": "$5.6B",
+        "revenue_mix": [
+          "90% SaaS",
+          "10% services"
+        ],
+        "profitability": "Not profitable"
+      },
+      "leadership": {
+        "ceo": "Abhinav Asthana",
+        "leaders": [
+          "Ankit Sobti",
+          "Abhijit Kane",
+          "Manik Aggarwal"
+        ]
+      },
+      "operations": {
+        "countries": [
+          "USA",
+          "India",
+          "Japan",
+          "Global"
+        ],
+        "retention": "~3 years",
+        "office_count": "~5",
+        "employee_size": "~300",
+        "hiring_velocity": "100+ roles",
+        "employee_turnover": "15\u201320%"
+      },
+      "short_name": "Postman",
+      "technology": {
+        "stack": [
+          "Node.js",
+          "Go",
+          "Python",
+          "React",
+          "AWS",
+          "PostgreSQL",
+          "Docker",
+          "Kubernetes"
+        ],
+        "ai_level": "High",
+        "security": "SOC2, GDPR, HIPAA-ready"
+      },
+      "business_model": {
+        "offerings": [
+          "API Design",
+          "Testing",
+          "Mocking",
+          "Monitoring",
+          "Collaboration",
+          "AI API tools"
+        ],
+        "focus_sectors": [
+          "IT",
+          "Finance",
+          "Healthcare",
+          "Retail",
+          "Govt"
+        ],
+        "value_proposition": "Developer productivity + enterprise governance + AI-native workflows"
+      },
+      "infrastructure": {
+        "safety": "High",
+        "location": "Tech hubs",
+        "transport": "Good"
+      },
+      "product_metrics": {
+        "nps": "65+",
+        "churn": "~5%",
+        "cac_ltv": ">1:3",
+        "sales_motion": "PLG + Enterprise"
+      },
+      "company_strength": {
+        "brand": "Top dev ecosystem",
+        "skills": "Highly relevant",
+        "clients": "Elite",
+        "network": "Strong",
+        "global_exposure": "High"
+      },
+      "final_assessment": {
+        "sustainability": "Moderate",
+        "crisis_behavior": "Not Found (transparent, learning-driven culture)",
+        "mission_clarity": "High"
+      },
+      "work_environment": {
+        "leave": "Generous",
+        "overtime": "Occasional",
+        "weekends": "Rare",
+        "flexibility": "High"
+      },
+      "incorporation_year": 2014,
+      "employee_experience": {
+        "impact": "Massive",
+        "mobility": "High",
+        "ownership": "High",
+        "mentorship": "Strong",
+        "onboarding": "Structured",
+        "role_clarity": "Clear"
+      },
+      "intelligence_data": {
+        "company_tier": "Elite Dream Company",
+        "reasoning": "Postman, Inc. is categorized as an Elite Dream Company due to its strong brand, high growth rate, and competitive compensation. The company's high valuation, strong revenue growth, and high market share in the API platform market indicate a high demand for top talent, making it highly selective. Additionally, the company's emphasis on innovation, AI-native platform, and strong leadership suggests a high expectation for employee quality, further solidifying its position as an Elite Dream Company.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "1-3 students",
+          "tier_3": "Rarely hires"
+        },
+        "badges": [
+          "Highly Selective",
+          "Top Tier Pay",
+          "Stable Growth"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "2",
+    "full_json": {
+      "name": "Microsoft Corporation (Power BI Division)",
+      "risks": {
+        "layoffs": "Occasional",
+        "macro_risk": "IT spending slowdown",
+        "competition": "Strong (Tableau, Looker)"
+      },
+      "growth": {
+        "career_growth": "Excellent",
+        "exit_opportunities": "Excellent",
+        "learning_opportunities": "High"
+      },
+      "market": {
+        "customers": "Used by majority of Fortune 500",
+        "competitors": [
+          "Tableau",
+          "Qlik",
+          "Looker",
+          "Domo",
+          "ThoughtSpot"
+        ],
+        "top_clients": [
+          "Walmart",
+          "NVIDIA",
+          "Heathrow Airport"
+        ],
+        "market_share": "36\u201340%"
+      },
+      "culture": {
+        "hours": "40\u201345/week",
+        "work_model": "Hybrid",
+        "burnout_risk": "Low\u2013Moderate",
+        "manager_quality": "High",
+        "feedback_culture": "Strong",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "High"
+      },
+      "advanced": {
+        "ip": "Extensive BI + AI patents",
+        "rnd": "$27B+",
+        "macro": "Global economy",
+        "geopolitical": "Data laws",
+        "supply_chain": "Azure infra"
+      },
+      "benefits": {
+        "bonus": "Reliable",
+        "esops": "RSUs",
+        "wellness": "Extensive",
+        "health_insurance": "Comprehensive",
+        "salary_structure": "Competitive"
+      },
+      "category": "Enterprise (Public Technology Company)",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "overview": {
+        "values": [
+          "Integrity",
+          "Accountability",
+          "Respect",
+          "Growth Mindset",
+          "Innovation",
+          "Customer Obsession"
+        ],
+        "vision": "Empower every person and organization with data-driven insights",
+        "mission": "Provide scalable self-service and enterprise BI platform",
+        "description": "Unified AI-powered business intelligence platform for data visualization, analytics, and enterprise decision-making.",
+        "headquarters": "Redmond, USA",
+        "nature_of_company": "Public (Product Division)"
+      },
+      "strategy": {
+        "future_projection": "Rapid growth via AI-led analytics",
+        "strategic_priorities": [
+          "AI Copilot",
+          "Microsoft Fabric",
+          "Real-time analytics"
+        ]
+      },
+      "ecosystem": {
+        "partners": [
+          "SAP",
+          "Snowflake",
+          "Salesforce",
+          "Accenture",
+          "Deloitte"
+        ],
+        "investors": [
+          "Vanguard",
+          "BlackRock",
+          "Berkshire Hathaway"
+        ]
+      },
+      "company_id": "2",
+      "financials": {
+        "growth": "16% overall",
+        "profit": "$88B",
+        "revenue": "$245B (Microsoft)",
+        "valuation": "$3.15T",
+        "profitability": "Highly profitable"
+      },
+      "leadership": {
+        "ceo": "Satya Nadella",
+        "key_leaders": [
+          "Arun Ulagaratchagan"
+        ]
+      },
+      "operations": {
+        "countries": [
+          "Global (190+ countries)"
+        ],
+        "retention": "6.5 years",
+        "office_count": "100+ (Microsoft global)",
+        "employee_size": "500+ (within 220,000+ Microsoft)",
+        "hiring_velocity": "Data, BI, AI roles globally",
+        "employee_turnover": "10\u201312%"
+      },
+      "short_name": "Microsoft Power BI",
+      "technology": {
+        "tech_stack": [
+          "Azure",
+          "SQL Server",
+          ".NET",
+          "DAX",
+          "Power Query",
+          "React",
+          "OpenAI"
+        ],
+        "ai_adoption": "High (Copilot)",
+        "cybersecurity": "Zero Trust model"
+      },
+      "business_model": {
+        "offerings": [
+          "Power BI Desktop",
+          "Power BI Cloud",
+          "Power BI Embedded",
+          "Power BI Premium",
+          "AI Copilot",
+          "Data Visualization"
+        ],
+        "focus_sectors": [
+          "IT",
+          "Finance",
+          "Healthcare",
+          "Retail",
+          "Manufacturing",
+          "Government"
+        ],
+        "value_proposition": "AI-driven BI with seamless Microsoft ecosystem integration"
+      },
+      "infrastructure": {
+        "safety": "High",
+        "transport": "High",
+        "location_type": "Corporate campus"
+      },
+      "product_metrics": {
+        "nps": "65\u201370",
+        "churn": "<5%",
+        "cac_ltv": ">5:1",
+        "sales_motion": "PLG + Enterprise + Partner"
+      },
+      "company_strength": {
+        "network": "Strong",
+        "brand_value": "Extremely High",
+        "client_quality": "Top-tier",
+        "global_exposure": "High",
+        "skill_relevance": "High"
+      },
+      "final_assessment": {
+        "sustainability": "Strong",
+        "crisis_behavior": "Transparent",
+        "mission_clarity": "High"
+      },
+      "work_environment": {
+        "overtime": "Low\u2013Moderate",
+        "flexibility": "High",
+        "leave_policy": "Generous",
+        "weekend_work": "Rare"
+      },
+      "incorporation_year": 1975,
+      "employee_experience": {
+        "mentorship": "Strong",
+        "onboarding": "Structured",
+        "work_impact": "High",
+        "role_clarity": "High",
+        "early_ownership": "Moderate",
+        "internal_mobility": "Very High"
+      },
+      "intelligence_data": {
+        "company_tier": "Elite Dream Company",
+        "reasoning": "Microsoft Corporation (Power BI Division) is categorized as an Elite Dream Company due to its excellent career growth, high learning opportunities, and competitive compensation. The company's strong brand value, high skill relevance, and global exposure make it a desirable destination for top talent. Additionally, the company's extensive benefits, reliable bonus, and comprehensive health insurance indicate a high level of investment in employee well-being and development.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "1-3 students",
+          "tier_3": "Rarely hires"
+        },
+        "badges": [
+          "Top Tier Pay",
+          "Highly Selective",
+          "Stable Backup",
+          "High Volume Campus Hiring"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "3",
+    "full_json": {
+      "name": "Practo Technologies Private Limited",
+      "risks": {
+        "layoffs": "Minor layoffs (2017, 2023)",
+        "macro_risk": "Healthcare spending sensitivity",
+        "competition": "Very high (Tata, Apollo, PharmEasy)"
+      },
+      "growth": {
+        "career_growth": "High",
+        "exit_opportunities": "Strong",
+        "learning_opportunities": "Strong"
+      },
+      "market": {
+        "customers": "30 Cr+ patients annually",
+        "competitors": [
+          "Tata 1mg",
+          "Apollo 247",
+          "PharmEasy",
+          "mfine",
+          "Lybrate"
+        ],
+        "top_clients": [
+          "Apollo Hospitals",
+          "Fortis",
+          "Clinic chains"
+        ],
+        "market_share": "~30% (India doctor discovery)"
+      },
+      "culture": {
+        "hours": "9:30\u20136:30",
+        "work_model": "Hybrid",
+        "burnout_risk": "Low\u2013Moderate",
+        "manager_quality": "Good",
+        "feedback_culture": "Structured",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "Moderate"
+      },
+      "advanced": {
+        "ip": "Healthcare algorithms",
+        "rnd": "15\u201320%",
+        "macro": "Healthcare economy",
+        "geopolitical": "Data regulations",
+        "supply_chain": "Pharma + labs"
+      },
+      "benefits": {
+        "bonus": "Performance-based",
+        "esops": "Available",
+        "wellness": "Good",
+        "health_insurance": "Family coverage",
+        "salary_structure": "Competitive"
+      },
+      "category": "Healthtech Startup",
+      "overview": {
+        "values": [
+          "Patient First",
+          "Trust",
+          "Transparency",
+          "Innovation",
+          "Accessibility",
+          "Quality"
+        ],
+        "vision": "Make quality healthcare accessible and affordable globally",
+        "mission": "Help people live healthier, longer lives",
+        "description": "Integrated digital healthcare platform connecting patients with doctors, diagnostics, and medicine delivery services.",
+        "headquarters": "Bangalore, India",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "future_projection": "Full profitability + global expansion",
+        "strategic_priorities": [
+          "Profitability",
+          "Surgery business expansion",
+          "AI triage",
+          "Hospital SaaS growth"
+        ]
+      },
+      "ecosystem": {
+        "investors": [
+          "Sequoia Capital",
+          "Tencent",
+          "Matrix Partners",
+          "Google Capital"
+        ],
+        "associations": [
+          "IAMAI",
+          "NASSCOM"
+        ]
+      },
+      "company_id": "3",
+      "financials": {
+        "growth": "10\u201315%",
+        "runway": "24+ months",
+        "revenue": "$25M\u2013$30M",
+        "burn_rate": "Reduced significantly",
+        "valuation": "$900M",
+        "profitability": "Near EBITDA breakeven"
+      },
+      "leadership": {
+        "ceo": "Shashank ND",
+        "key_leaders": [
+          "Abhinav Lal",
+          "Siddhartha Nihalani"
+        ]
+      },
+      "operations": {
+        "countries": [
+          "India",
+          "Singapore",
+          "UAE",
+          "USA",
+          "Indonesia",
+          "Philippines"
+        ],
+        "retention": "2.8 years",
+        "office_count": "5",
+        "employee_size": "1000\u20131500",
+        "hiring_velocity": "30\u201355 roles",
+        "employee_turnover": "18%"
+      },
+      "short_name": "Practo",
+      "technology": {
+        "tech_stack": [
+          "Python",
+          "Node.js",
+          "Java",
+          "React",
+          "AWS",
+          "PostgreSQL",
+          "Docker",
+          "Kubernetes"
+        ],
+        "ai_adoption": "Moderate\u2013High",
+        "cybersecurity": "ISO 27001, HIPAA compliant"
+      },
+      "business_model": {
+        "offerings": [
+          "Doctor Booking",
+          "Video Consultation",
+          "Medicine Delivery",
+          "Diagnostics",
+          "Practo Ray (SaaS)",
+          "Practo Insta (HIMS)"
+        ],
+        "focus_sectors": [
+          "Healthcare",
+          "Telemedicine",
+          "Clinics",
+          "Diagnostics"
+        ],
+        "value_proposition": "One-stop healthcare platform with integrated digital services"
+      },
+      "infrastructure": {
+        "safety": "High",
+        "transport": "Good",
+        "location_type": "Urban tech hub"
+      },
+      "product_metrics": {
+        "nps": "45\u201350",
+        "churn": "15\u201320%",
+        "cac_ltv": "1:3",
+        "sales_motion": "B2C + SaaS + B2B"
+      },
+      "company_strength": {
+        "network": "Strong",
+        "brand_value": "High in India",
+        "client_quality": "Top hospitals",
+        "global_exposure": "Growing",
+        "skill_relevance": "High"
+      },
+      "final_assessment": {
+        "sustainability": "Strong social impact",
+        "crisis_behavior": "Adaptive during COVID-19; resilient in downturns",
+        "mission_clarity": "High"
+      },
+      "work_environment": {
+        "overtime": "Moderate",
+        "flexibility": "Moderate",
+        "leave_policy": "18\u201324 days",
+        "weekend_work": "Rare"
+      },
+      "incorporation_year": 2008,
+      "employee_experience": {
+        "mentorship": "Available",
+        "onboarding": "Structured",
+        "work_impact": "High (healthcare impact)",
+        "role_clarity": "High",
+        "early_ownership": "High",
+        "internal_mobility": "High"
+      },
+      "intelligence_data": {
+        "company_tier": "Mid-Tier Recruiter",
+        "reasoning": "Practo Technologies Private Limited is categorized as a Mid-Tier Recruiter due to its moderate to high growth rate, strong market presence, and competitive salary structure. While it may not be as highly sought after as an Elite Dream Company, it offers a strong value proposition, especially in the healthtech sector, and a relatively stable work environment. This tier classification helps students set realistic expectations and allocate prep effort accordingly.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "2-5 students",
+          "tier_3": "1-2 students"
+        },
+        "badges": [
+          "Competitive Pay",
+          "Growth Opportunities",
+          "Stable Work Environment"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "4",
+    "full_json": {
+      "name": "Preferred Networks, Inc.",
+      "risk": {
+        "macro": "Energy costs, AI talent competition",
+        "geopolitical": "Chip restrictions"
+      },
+      "tech": {
+        "stack": [
+          "Python",
+          "C++",
+          "MN-Core",
+          "HPC Linux"
+        ],
+        "ai_adoption": "Very High",
+        "cybersecurity": "Strong"
+      },
+      "growth": {
+        "learning": "Excellent",
+        "promotion": "Moderate",
+        "mentorship": "High",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "4.5 years",
+        "hiring_velocity": "20-60 roles across AI research, engineering, hardware",
+        "employee_turnover": "10%"
+      },
+      "people": {
+        "training": "High (research focus)",
+        "diversity": "Global researchers",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Research-driven, academic",
+        "manager_quality": "High",
+        "feedback_culture": "Technical review driven",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Growing",
+        "psychological_safety": "High"
+      },
+      "category": "DeepTech AI Startup",
+      "location": {
+        "type": "Central business district",
+        "safety": "Very high",
+        "transport": "Excellent"
+      },
+      "logo_url": "https://seeklogo.com/images/P/preferred-networks-logo-0A0A0A0A0A-seeklogo.com.png",
+      "overview": {
+        "description": "Preferred Networks is a deep-tech AI company focused on vertically integrated AI solutions spanning hardware, software, and real-world applications like robotics and manufacturing.",
+        "headquarters": "Tokyo, Japan",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "gtm": "Strategic partnerships",
+        "priorities": [
+          "Compute efficiency",
+          "GenAI models",
+          "Vertical integration"
+        ]
+      },
+      "customers": {
+        "nps": "75",
+        "churn": "Very low",
+        "top_clients": [
+          "Toyota",
+          "Fanuc",
+          "Hitachi",
+          "Mitsui"
+        ]
+      },
+      "company_id": "4",
+      "financials": {
+        "profit": "Not disclosed",
+        "revenue": "\u00a55B - \u00a510B",
+        "valuation": "$2.5B - $3B",
+        "growth_rate": "15-20%",
+        "profitability": "R&D-focused"
+      },
+      "leadership": {
+        "ceo": "Toru Nishikawa"
+      },
+      "operations": {
+        "countries": [
+          "Japan",
+          "USA",
+          "Singapore"
+        ],
+        "office_count": "2",
+        "employee_size": "400+ employees",
+        "office_locations": [
+          "Tokyo",
+          "Nagoya",
+          "Burlingame"
+        ]
+      },
+      "short_name": "Preferred Networks",
+      "competition": {
+        "advantages": [
+          "Custom AI chips",
+          "Energy efficiency",
+          "Industrial partnerships"
+        ],
+        "weaknesses": [
+          "Japan-centric",
+          "High hardware cost",
+          "Lower global brand awareness"
+        ],
+        "competitors": [
+          "NVIDIA",
+          "OpenAI",
+          "DeepMind",
+          "Anthropic"
+        ]
+      },
+      "compensation": {
+        "bonus": "Moderate",
+        "esops": "Not clear",
+        "benefits": "Standard + wellness",
+        "pay_structure": "Competitive"
+      },
+      "business_model": {
+        "offerings": [
+          "MN-Core AI Chips",
+          "MN-3 Supercomputer",
+          "PLaMo LLM",
+          "Matlantis",
+          "Robotics Systems"
+        ],
+        "focus_sectors": [
+          "Manufacturing",
+          "Autonomous Driving",
+          "Life Sciences",
+          "Robotics",
+          "HPC"
+        ],
+        "target_customers": [
+          "Toyota",
+          "Fanuc",
+          "Hitachi",
+          "Chugai Pharma"
+        ],
+        "value_proposition": "End-to-end AI stack from hardware to models with superior compute efficiency"
+      },
+      "career_outcomes": {
+        "network": "Strong industrial network",
+        "brand_value": "High in Japan",
+        "global_exposure": "Growing",
+        "exit_opportunities": "Strong in AI/DeepTech"
+      },
+      "work_conditions": {
+        "hours": "Flexible",
+        "leave": "Standard Japan leave",
+        "weekend": "Rare",
+        "overtime": "Low-Moderate",
+        "flexibility": "Hybrid",
+        "burnout_risk": "Low"
+      },
+      "final_assessment": {
+        "sustainability": "Energy-efficient AI focus",
+        "crisis_behavior": "Not defined",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2014,
+      "intelligence_data": {
+        "company_tier": "Premium Niche",
+        "reasoning": "Preferred Networks, Inc. is categorized as a Premium Niche company due to its mid-sized hiring velocity of 20-60 roles across various domains, indicating a moderate level of selectivity and offering competitive compensation. This tiering suggests that the company is not as highly sought after as Elite Dream Companies but still offers attractive opportunities for students interested in AI and DeepTech.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "1-3 students",
+          "tier_3": "Rarely hires"
+        },
+        "badges": [
+          "Competitive Pay",
+          "Strong Industry Connections",
+          "Niche Domain Expertise"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "5",
+    "full_json": {
+      "name": "Proactively Inc.",
+      "risk": {
+        "macro": "Telehealth policy changes",
+        "geopolitical": "Low"
+      },
+      "tech": {
+        "stack": [
+          "React",
+          "Node.js",
+          "AWS",
+          "Python"
+        ],
+        "ai_adoption": "Moderate",
+        "cybersecurity": "HIPAA compliant"
+      },
+      "growth": {
+        "learning": "High",
+        "promotion": "Moderate",
+        "mentorship": "High",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "2.5 years",
+        "hiring_velocity": "Engineering, AI/ML, Customer Success",
+        "employee_turnover": "12%"
+      },
+      "people": {
+        "training": "Sponsored certifications",
+        "diversity": "40% women leadership",
+        "remote_policy": "Remote-first"
+      },
+      "culture": {
+        "work_culture": "Mission-driven",
+        "manager_quality": "High",
+        "feedback_culture": "Strong",
+        "ethical_standards": "Very high",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "High"
+      },
+      "category": "Startup",
+      "location": {
+        "type": "Remote / Innovation hub",
+        "safety": "High",
+        "transport": "Moderate"
+      },
+      "logo_url": "https://proactively.com/favicon.ico",
+      "overview": {
+        "description": "Healthtech platform focused on Lifestyle Medicine and chronic disease reversal using shared medical appointments and digital tools.",
+        "headquarters": "Orlando, Florida, USA",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "gtm": "DTC + B2B + referrals",
+        "priorities": [
+          "Scale clinicians",
+          "Expand B2B",
+          "AI automation"
+        ]
+      },
+      "customers": {
+        "nps": "68",
+        "churn": "15%",
+        "top_clients": [
+          "Patients",
+          "Providers",
+          "Employers"
+        ]
+      },
+      "company_id": "5",
+      "financials": {
+        "profit": "Not profitable",
+        "revenue": "$1.2M",
+        "valuation": "$15M",
+        "growth_rate": "45%",
+        "profitability": "Scaling"
+      },
+      "leadership": {
+        "ceo": "Dr. Michael G."
+      },
+      "operations": {
+        "countries": [
+          "USA",
+          "India",
+          "UK",
+          "Canada"
+        ],
+        "office_count": "2",
+        "employee_size": "11-50 employees",
+        "office_locations": [
+          "Orlando",
+          "Alpharetta",
+          "Remote"
+        ]
+      },
+      "short_name": "Proactively",
+      "competition": {
+        "advantages": [
+          "Group care",
+          "ACLM backing",
+          "Low cost"
+        ],
+        "weaknesses": [
+          "Small team",
+          "Limited awareness"
+        ],
+        "competitors": [
+          "Omada Health",
+          "Virta Health",
+          "Noom",
+          "Teladoc"
+        ]
+      },
+      "compensation": {
+        "bonus": "Not defined",
+        "esops": "Possible",
+        "benefits": "Health-focused",
+        "pay_structure": "Startup"
+      },
+      "business_model": {
+        "offerings": [
+          "Shared Medical Appointments",
+          "Clinician Directory",
+          "Lifestyle Medicine Plans",
+          "Digital Health Platform",
+          "Employer Wellness"
+        ],
+        "focus_sectors": [
+          "Healthcare",
+          "Telehealth",
+          "Chronic Care"
+        ],
+        "target_customers": [
+          "Patients",
+          "Clinicians",
+          "Employers"
+        ],
+        "value_proposition": "Affordable, community-driven chronic disease reversal with AI support"
+      },
+      "career_outcomes": {
+        "network": "ACLM ecosystem",
+        "brand_value": "Growing",
+        "global_exposure": "Limited",
+        "exit_opportunities": "Strong in healthtech"
+      },
+      "work_conditions": {
+        "hours": "40-50",
+        "leave": "Unlimited PTO",
+        "weekend": "Rare",
+        "overtime": "Low",
+        "flexibility": "Remote",
+        "burnout_risk": "Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Preventive healthcare impact",
+        "crisis_behavior": "Not defined",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2019,
+      "intelligence_data": {
+        "company_tier": "Mid-Tier Recruiter",
+        "reasoning": "Proactively Inc. is a startup with moderate growth and a specific focus on healthtech, indicating a need for specialized talent. However, its small team size and limited awareness suggest it may not be as competitive as elite companies, but still attractive due to its mission-driven culture and moderate compensation. This positioning suggests it falls into the Mid-Tier Recruiter category, where it may have a notable but not overwhelming presence on campuses.",
+        "campus_hiring_volumes": {
+          "tier_1": "1-3 students",
+          "tier_2": "Rarely hires",
+          "tier_3": "Rarely hires"
+        },
+        "badges": [
+          "Stable Backup",
+          "Moderate Pay",
+          "Healthtech Specialist"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "6",
+    "full_json": {
+      "name": "Prodapt Solutions Private Limited",
+      "career": {
+        "global_exposure": "Very High",
+        "skill_relevance": "High",
+        "exit_opportunities": "Excellent",
+        "growth_opportunities": "High"
+      },
+      "future": {
+        "innovation_roadmap": [
+          "GenAI",
+          "6G readiness"
+        ],
+        "strategic_priorities": [
+          "AI-first",
+          "Autonomous networks"
+        ]
+      },
+      "market": {
+        "sam": "$50B",
+        "som": "$2-3B",
+        "tam": "$200B+"
+      },
+      "culture": {
+        "burnout_risk": "Moderate",
+        "typical_hours": "40-45 hrs/week",
+        "learning_culture": "Strong",
+        "work_culture_summary": "Innovation-driven and collaborative"
+      },
+      "benefits": {
+        "leave_policy": "18-24 days",
+        "lifestyle_benefits": [
+          "Wellness",
+          "Transport",
+          "Flexibility"
+        ],
+        "family_health_insurance": "Yes"
+      },
+      "branding": {
+        "awards": [
+          "Great Place to Work",
+          "TM Forum Awards"
+        ],
+        "brand_sentiment_score": "78/100"
+      },
+      "business": {
+        "offerings": [
+          "AI Transformation",
+          "Digital Engineering",
+          "Data & AI",
+          "Autonomous Operations",
+          "Managed Services"
+        ],
+        "focus_sectors": [
+          "Telecom",
+          "Media",
+          "Technology"
+        ],
+        "top_customers": [
+          "Verizon",
+          "Vodafone",
+          "Deutsche Telekom",
+          "Lumen"
+        ],
+        "pain_points_addressed": [
+          "Legacy telecom systems",
+          "Slow digital transformation",
+          "High operational costs",
+          "Fragmented customer experience"
+        ]
+      },
+      "category": "SMB (IT Services / Telecom Consulting)",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Prodapt_Reimagined_Logo.jpg",
+      "overview": {
+        "description": "AI-first digital and network transformation provider focused on telecom, media, and technology industries.",
+        "headquarters": "Chennai, India",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "vision": "Enable hyperconnected digital world",
+        "mission": "Transform telcos into digital service providers",
+        "core_values": [
+          "Innovation",
+          "Diversity",
+          "Sustainability",
+          "Responsible AI"
+        ],
+        "core_value_proposition": "AI-first telecom transformation with deep domain expertise"
+      },
+      "investors": {
+        "key_investors": [
+          "Jhaver Group"
+        ],
+        "total_capital_raised": "Internal"
+      },
+      "company_id": "6",
+      "financials": {
+        "valuation": "$1.2B-$1.5B",
+        "annual_profit": "$60M-$80M",
+        "annual_revenue": "$400M-$500M",
+        "yoy_growth_rate": "15-20%",
+        "profitability_status": "Profitable"
+      },
+      "governance": {
+        "legal_issues": "None major",
+        "regulatory_status": [
+          "ISO 27001",
+          "GDPR",
+          "CMMI Level 5"
+        ]
+      },
+      "leadership": {
+        "ceo_name": "Harsha Kumar",
+        "key_leaders": [
+          "Harsha Kumar",
+          "Vedant Jhaver",
+          "Sriram Natarajan"
+        ]
+      },
+      "operations": {
+        "burn_rate": "Low",
+        "sales_motion": "Enterprise + Partner-led",
+        "runway_months": "Self-sustaining"
+      },
+      "short_name": "Prodapt",
+      "technology": {
+        "tech_stack": [
+          "Java",
+          "Python",
+          "React",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Kubernetes"
+        ],
+        "ai_ml_adoption_level": "Very High",
+        "cybersecurity_posture": "ISO 27001 compliant"
+      },
+      "competition": {
+        "challenges": [
+          "Scaling AI",
+          "Talent retention"
+        ],
+        "weaknesses": [
+          "Limited diversification"
+        ],
+        "key_competitors": [
+          "Accenture",
+          "TCS",
+          "Infosys",
+          "Wipro",
+          "Ericsson"
+        ],
+        "competitive_advantages": [
+          "Telecom specialization",
+          "AI-first"
+        ]
+      },
+      "company_size": {
+        "employees": "6000+",
+        "employee_turnover": "18%",
+        "avg_retention_tenure": "3.2 years"
+      },
+      "business_model": {
+        "revenue_streams": [
+          "IT Services",
+          "Consulting",
+          "Managed Services",
+          "AI"
+        ]
+      },
+      "growth_metrics": {
+        "churn_rate": "<3%",
+        "cac_ltv_ratio": "1:8",
+        "net_promoter_score": "65"
+      },
+      "sustainability": {
+        "carbon_footprint": "Reducing",
+        "ethical_sourcing": "Strong"
+      },
+      "crisis_behavior": "Stable and adaptive during economic and industry disruptions",
+      "global_presence": {
+        "countries": [
+          "India",
+          "USA",
+          "UK",
+          "Germany",
+          "France",
+          "Brazil",
+          "South Africa",
+          "Singapore",
+          "Japan",
+          "Australia"
+        ],
+        "office_count": "15+",
+        "office_locations": "40+ cities globally"
+      },
+      "final_assessment": {
+        "risk_level": "Moderate",
+        "brand_value": "Strong in telecom niche",
+        "client_quality": "Tier-1 global",
+        "company_maturity": "Mature"
+      },
+      "work_environment": {
+        "area_safety": "High",
+        "location_centrality": "Major global hubs",
+        "infrastructure_safety": "Modern",
+        "public_transport_access": "Excellent"
+      },
+      "incorporation_year": 1999,
+      "employee_experience": {
+        "manager_quality": "High",
+        "feedback_culture": "Continuous",
+        "promotion_clarity": "Clear",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "High"
+      },
+      "intelligence_data": {
+        "company_tier": "Mid-Tier Recruiter",
+        "reasoning": "Prodapt Solutions Private Limited is a mature company with a strong presence in the telecom and IT services industry. The company has a decent valuation, revenue, and profitability, but its employee size and growth rate are not as high as elite companies. The company's career development opportunities, skill relevance, and exit opportunities are also good but not exceptional. Therefore, it is reasonable to categorize the company as a Mid-Tier Recruiter.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "2-5 students",
+          "tier_3": "1-2 students"
+        },
+        "badges": [
+          "Stable Backup",
+          "Good Career Growth"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "7",
+    "full_json": {
+      "name": "Publicis Groupe S.A.",
+      "risk": {
+        "macro": "Ad-spend slowdown",
+        "geopolitical": "Global market exposure"
+      },
+      "tech": {
+        "stack": [
+          "Azure",
+          "Adobe",
+          "Salesforce",
+          "Google Cloud"
+        ],
+        "ai_adoption": "High",
+        "cybersecurity": "Enterprise-grade"
+      },
+      "growth": {
+        "learning": "Strong",
+        "promotion": "Clear",
+        "mentorship": "High",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "4.2 years",
+        "hiring_velocity": "AI, Data Science, Creative, Media, Consulting roles",
+        "employee_turnover": "20%"
+      },
+      "people": {
+        "training": "High investment",
+        "diversity": "50%+ women",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Collaborative, competitive",
+        "manager_quality": "High",
+        "feedback_culture": "Performance-driven",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "Moderate-High"
+      },
+      "category": "Enterprise",
+      "location": {
+        "type": "Global metro hubs",
+        "safety": "High",
+        "transport": "Excellent"
+      },
+      "logo_url": "https://www.publicisgroupe.com/sites/default/files/mediakit/download/Publicis_Groupe_logo.png",
+      "overview": {
+        "description": "Publicis Groupe is a global leader in advertising, marketing, and digital transformation, integrating creativity, media, data, and technology through its 'Power of One' model.",
+        "headquarters": "Paris, France",
+        "nature_of_company": "Public"
+      },
+      "strategy": {
+        "gtm": "Enterprise consulting + agency model",
+        "priorities": [
+          "AI-first",
+          "Data leadership",
+          "Digital transformation"
+        ]
+      },
+      "customers": {
+        "nps": "60-65",
+        "churn": "10%",
+        "top_clients": [
+          "Samsung",
+          "L'Or\u00e9al",
+          "Nestl\u00e9",
+          "McDonald's",
+          "Mercedes-Benz"
+        ]
+      },
+      "company_id": "7",
+      "financials": {
+        "profit": "\u20ac1.31B",
+        "revenue": "\u20ac13.1B",
+        "valuation": "\u20ac26B+",
+        "growth_rate": "6%",
+        "profitability": "Highly profitable"
+      },
+      "leadership": {
+        "ceo": "Arthur Sadoun"
+      },
+      "operations": {
+        "countries": [
+          "France",
+          "USA",
+          "UK",
+          "Germany",
+          "China",
+          "India",
+          "Brazil",
+          "Canada",
+          "Australia",
+          "Japan"
+        ],
+        "office_count": "100+",
+        "employee_size": "103,000+ employees",
+        "office_locations": [
+          "Paris",
+          "New York",
+          "London",
+          "Mumbai",
+          "Shanghai",
+          "Berlin",
+          "Singapore",
+          "Tokyo"
+        ]
+      },
+      "short_name": "Publicis Groupe",
+      "competition": {
+        "advantages": [
+          "Epsilon data",
+          "Marcel AI",
+          "Power of One model"
+        ],
+        "weaknesses": [
+          "Complex structure",
+          "Legacy perception"
+        ],
+        "competitors": [
+          "WPP",
+          "Omnicom",
+          "Dentsu",
+          "Accenture Song"
+        ]
+      },
+      "compensation": {
+        "bonus": "Reliable",
+        "esops": "Public company incentives",
+        "benefits": "Comprehensive",
+        "pay_structure": "Competitive"
+      },
+      "business_model": {
+        "offerings": [
+          "Advertising",
+          "Media Planning",
+          "Digital Transformation",
+          "Data & Identity",
+          "PR & Influence",
+          "Commerce Solutions"
+        ],
+        "focus_sectors": [
+          "FMCG",
+          "Healthcare",
+          "Finance",
+          "Retail",
+          "Tech"
+        ],
+        "target_customers": [
+          "Fortune 500 brands"
+        ],
+        "value_proposition": "Unified platform combining creativity, data, and technology for business transformation"
+      },
+      "career_outcomes": {
+        "network": "Very strong",
+        "brand_value": "Extremely high",
+        "global_exposure": "Very high",
+        "exit_opportunities": "Strong in marketing/consulting"
+      },
+      "work_conditions": {
+        "hours": "40-50",
+        "leave": "Generous",
+        "weekend": "Rare",
+        "overtime": "Moderate",
+        "flexibility": "Hybrid",
+        "burnout_risk": "Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Strong ESG commitment",
+        "crisis_behavior": "Resilient and adaptive",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 1926,
+      "intelligence_data": {
+        "company_tier": "Elite Dream Company",
+        "reasoning": "Publicis Groupe S.A. is a global leader in advertising, marketing, and digital transformation with a strong brand value, high revenue, and a large employee base. It has a high demand for skilled professionals, especially in AI, data science, and digital transformation, which are typically in short supply. The company's 'Power of One' model, AI-first approach, and high investment in employee training also indicate a strong focus on talent acquisition and development. Given these factors, it is likely that Publicis Groupe S.A. is highly selective in its hiring process and offers competitive compensation, making it an Elite Dream Company for students.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "1-3 students",
+          "tier_3": "Rarely hires"
+        },
+        "badges": [
+          "Highly Selective",
+          "Top Tier Pay",
+          "Stable Backup"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "8",
+    "full_json": {
+      "name": "PricewaterhouseCoopers Acceleration Centre India Private Limited",
+      "risk": {
+        "macro": "Consulting demand cycles",
+        "geopolitical": "Offshoring regulations"
+      },
+      "tech": {
+        "stack": [
+          "Python",
+          "Java",
+          "React",
+          "Azure",
+          "AWS",
+          "SAP"
+        ],
+        "ai_adoption": "High",
+        "cybersecurity": "Strong"
+      },
+      "growth": {
+        "learning": "Excellent",
+        "promotion": "Clear",
+        "mentorship": "Strong",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "3.5 years",
+        "hiring_velocity": "Tech, Data, Audit, Cybersecurity roles",
+        "employee_turnover": "15-20%"
+      },
+      "people": {
+        "training": "Strong",
+        "diversity": "40% women",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Collaborative, structured",
+        "manager_quality": "High",
+        "feedback_culture": "Continuous",
+        "ethical_standards": "Very high",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "High"
+      },
+      "category": "Subsidiary",
+      "location": {
+        "type": "Tech parks",
+        "safety": "High",
+        "transport": "Excellent"
+      },
+      "logo_url": "https://www.pwc.com/gx/en/about/assets/pwc-logo.svg",
+      "overview": {
+        "description": "PwC Acceleration Centres are global delivery hubs providing consulting, technology, tax, and audit services to PwC member firms worldwide.",
+        "headquarters": "Global network (PwC governed, London)",
+        "nature_of_company": "Subsidiary (PwC Network)"
+      },
+      "strategy": {
+        "gtm": "Internal PwC network",
+        "priorities": [
+          "AI transformation",
+          "Global scaling"
+        ]
+      },
+      "customers": {
+        "nps": "70+",
+        "churn": "Low",
+        "top_clients": [
+          "PwC Member Firms"
+        ]
+      },
+      "company_id": "8",
+      "financials": {
+        "profit": "$12B+",
+        "revenue": "$53.1B (PwC global)",
+        "valuation": "Internal",
+        "growth_rate": "9.9%",
+        "profitability": "Highly profitable"
+      },
+      "leadership": {
+        "ceo": "Sanjeev Krishan"
+      },
+      "operations": {
+        "countries": [
+          "India",
+          "USA",
+          "UK",
+          "Canada",
+          "Germany",
+          "France",
+          "Brazil",
+          "Singapore"
+        ],
+        "office_count": "20+",
+        "employee_size": "50,000+ employees",
+        "office_locations": [
+          "Bengaluru",
+          "Kolkata",
+          "Hyderabad",
+          "Manila",
+          "Buenos Aires"
+        ]
+      },
+      "short_name": "PwC Acceleration Centre India",
+      "competition": {
+        "advantages": [
+          "PwC brand",
+          "global scale",
+          "cost efficiency"
+        ],
+        "weaknesses": [
+          "Dependent on PwC network",
+          "less agile"
+        ],
+        "competitors": [
+          "Deloitte USI",
+          "EY GDS",
+          "KPMG Global Services"
+        ]
+      },
+      "compensation": {
+        "bonus": "Performance-based",
+        "esops": "Limited",
+        "benefits": "Comprehensive",
+        "pay_structure": "Fixed + variable"
+      },
+      "business_model": {
+        "offerings": [
+          "Technology Consulting",
+          "Cloud Modernization",
+          "Data Analytics",
+          "Audit & Tax Support",
+          "AI & Automation"
+        ],
+        "focus_sectors": [
+          "Consulting",
+          "Tax",
+          "Audit",
+          "Risk"
+        ],
+        "target_customers": [
+          "PwC global firms"
+        ],
+        "value_proposition": "Cost-efficient global delivery with high-quality professional services"
+      },
+      "career_outcomes": {
+        "network": "Excellent",
+        "brand_value": "Very high (Big 4)",
+        "global_exposure": "High",
+        "exit_opportunities": "Strong"
+      },
+      "work_conditions": {
+        "hours": "40-45",
+        "leave": "Generous",
+        "weekend": "Rare",
+        "overtime": "Low-Moderate",
+        "flexibility": "Hybrid",
+        "burnout_risk": "Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Strong ESG",
+        "crisis_behavior": "Resilient (PwC-backed)",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2010,
+      "intelligence_data": {
+        "company_tier": "Elite Dream Company",
+        "reasoning": "PricewaterhouseCoopers Acceleration Centre India Private Limited is an elite company due to its strong brand reputation, high growth rate, and excellent learning opportunities. The company's high revenue and profitability, combined with its global scale and diverse service offerings, make it a highly desirable workplace. Additionally, its strong focus on employee development, clear promotion channels, and comprehensive benefits contribute to its elite status.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "1-3 students",
+          "tier_3": "Rarely hires"
+        },
+        "badges": [
+          "Highly Selective",
+          "Top Tier Pay",
+          "Stable Backup",
+          "Strong Career Growth"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "9",
+    "full_json": {
+      "name": "QICAP Markets LLP",
+      "category": "SMB (Financial Services)",
+      "logo_url": "https://qicap.com/logo.png",
+      "overview": {
+        "description": "QICAP Markets LLP is a SMB (Financial Services)"
+      },
+      "company_id": "9",
+      "short_name": "QICAP Markets",
+      "employee_size": "51-200",
+      "yoy_growth_rate": "40%",
+      "office_locations": "GIFT City; Mumbai; Bengaluru; Gurugram; Singapore",
+      "operating_countries": "India; Singapore",
+      "intelligence_data": {
+        "company_tier": "Mid-Tier Recruiter",
+        "reasoning": "QICAP Markets LLP is categorized as a Mid-Tier Recruiter due to its moderate employee size of 51-200 and a significant year-over-year growth rate of 40%. This growth rate suggests the company is expanding and may have a moderate volume of hiring needs, but it's not large enough to be considered a mass recruiter. Additionally, being in the financial services sector, it may offer competitive compensation but might not be as selective as elite companies.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "2-5 students",
+          "tier_3": "1-3 students"
+        },
+        "badges": [
+          "Moderate Volume Campus Hiring",
+          "Competitive Pay"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "10",
+    "full_json": {
+      "name": "Qualcomm Incorporated",
+      "risk": {
+        "macro": "Semiconductor cycles",
+        "geopolitical": "US-China trade restrictions"
+      },
+      "tech": {
+        "stack": [
+          "Snapdragon",
+          "Adreno GPU",
+          "Hexagon NPU"
+        ],
+        "ai_adoption": "High",
+        "cybersecurity": "Zero-trust"
+      },
+      "growth": {
+        "learning": "Strong",
+        "promotion": "Clear",
+        "mentorship": "Available",
+        "role_clarity": "High",
+        "internal_mobility": "Strong"
+      },
+      "hiring": {
+        "avg_tenure": "4-6 years",
+        "hiring_velocity": "AI/ML, Hardware, Software, Automotive roles",
+        "employee_turnover": "10-15% (estimated)"
+      },
+      "people": {
+        "training": "High investment",
+        "diversity": "Global workforce",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Innovation-driven",
+        "manager_quality": "High",
+        "feedback_culture": "Strong",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "Moderate-High"
+      },
+      "category": "Enterprise",
+      "location": {
+        "type": "Tech hubs",
+        "safety": "High",
+        "transport": "Good"
+      },
+      "logo_url": "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/images/brand/logo/qualcomm-logo.png",
+      "overview": {
+        "description": "Qualcomm is a global leader in semiconductor and wireless technology, specializing in Snapdragon platforms, 5G/6G connectivity, and on-device AI solutions.",
+        "headquarters": "San Diego, California, USA",
+        "nature_of_company": "Public"
+      },
+      "strategy": {
+        "gtm": "OEM partnerships + licensing",
+        "priorities": [
+          "AI",
+          "Automotive",
+          "IoT expansion"
+        ]
+      },
+      "customers": {
+        "nps": "Not Found",
+        "churn": "<5%",
+        "top_clients": [
+          "Samsung",
+          "Xiaomi",
+          "Google",
+          "Automotive OEMs"
+        ]
+      },
+      "company_id": "10",
+      "financials": {
+        "profit": "$11.1B",
+        "revenue": "$44.3B",
+        "valuation": "$200B",
+        "growth_rate": "23%",
+        "profitability": "Highly profitable"
+      },
+      "leadership": {
+        "ceo": "Cristiano Amon"
+      },
+      "operations": {
+        "countries": [
+          "United States",
+          "China",
+          "India",
+          "Germany",
+          "United Kingdom",
+          "Japan",
+          "South Korea"
+        ],
+        "office_count": "150+",
+        "employee_size": "52,000 employees",
+        "office_locations": [
+          "San Diego",
+          "Bengaluru",
+          "Hyderabad",
+          "Beijing",
+          "Munich",
+          "Tokyo"
+        ]
+      },
+      "short_name": "Qualcomm",
+      "competition": {
+        "advantages": [
+          "Strong IP portfolio",
+          "Snapdragon ecosystem",
+          "5G leadership"
+        ],
+        "weaknesses": [
+          "China exposure",
+          "Handset dependency"
+        ],
+        "competitors": [
+          "MediaTek",
+          "NVIDIA",
+          "Intel",
+          "AMD",
+          "Apple"
+        ]
+      },
+      "compensation": {
+        "bonus": "High predictability",
+        "esops": "RSUs",
+        "benefits": "Comprehensive",
+        "pay_structure": "Base + Bonus + RSUs"
+      },
+      "business_model": {
+        "offerings": [
+          "Snapdragon Platforms",
+          "5G/6G Modems",
+          "AI & Edge Chips",
+          "Automotive Solutions",
+          "Licensing (QTL)"
+        ],
+        "focus_sectors": [
+          "Semiconductors",
+          "Wireless",
+          "Automotive",
+          "AI"
+        ],
+        "target_customers": [
+          "OEMs",
+          "Automotive companies",
+          "Tech firms"
+        ],
+        "value_proposition": "High-performance, power-efficient computing and connectivity solutions"
+      },
+      "career_outcomes": {
+        "network": "Strong",
+        "brand_value": "Very high",
+        "global_exposure": "High",
+        "exit_opportunities": "Excellent"
+      },
+      "work_conditions": {
+        "hours": "40-50",
+        "leave": "Comprehensive",
+        "weekend": "Rare",
+        "overtime": "Moderate",
+        "flexibility": "Hybrid",
+        "burnout_risk": "Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Net-zero goals",
+        "crisis_behavior": "Resilient",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 1985,
+      "intelligence_data": {
+        "company_tier": "Elite Dream Company",
+        "reasoning": "Qualcomm is a global leader in the technology industry with a strong brand value, high revenue, and profitability. The company's high investment in training, strong growth opportunities, and comprehensive benefits indicate a competitive and attractive work environment. Additionally, the company's high predictability in bonus and comprehensive pay structure suggest a premium compensation package, which is typical of elite dream companies.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "1-3 students",
+          "tier_3": "Rarely hires"
+        },
+        "badges": [
+          "Highly Selective",
+          "Top Tier Pay",
+          "Stable Backup"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "11",
+    "full_json": {
+      "name": "Quest Global Services Pte. Ltd.",
+      "risk": {
+        "macro": "R&D spending slowdown",
+        "geopolitical": "Defense tech regulations"
+      },
+      "tech": {
+        "stack": [
+          "MATLAB",
+          "CATIA",
+          "Python",
+          "C++"
+        ],
+        "ai_adoption": "Mature",
+        "cybersecurity": "Strong"
+      },
+      "growth": {
+        "learning": "Strong",
+        "promotion": "Defined",
+        "mentorship": "Available",
+        "role_clarity": "High",
+        "internal_mobility": "Moderate"
+      },
+      "hiring": {
+        "avg_tenure": "4.5 years",
+        "hiring_velocity": "Mechanical, Embedded, Software, Aerospace roles",
+        "employee_turnover": "15-20%"
+      },
+      "people": {
+        "training": "Technical focus",
+        "diversity": "Strong",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Engineering-driven",
+        "manager_quality": "Technical focus",
+        "feedback_culture": "Structured",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "Moderate"
+      },
+      "category": "Enterprise",
+      "location": {
+        "type": "Tech parks",
+        "safety": "High",
+        "transport": "Good"
+      },
+      "logo_url": "https://logo.clearbit.com/quest-global.com",
+      "overview": {
+        "description": "Quest Global is a global engineering services firm specializing in product engineering, embedded systems, and digital transformation across aerospace, automotive, and industrial sectors.",
+        "headquarters": "Singapore",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "gtm": "Enterprise B2B",
+        "priorities": [
+          "EV market",
+          "Digital engineering"
+        ]
+      },
+      "customers": {
+        "nps": "50+",
+        "churn": "<5%",
+        "top_clients": [
+          "Rolls-Royce",
+          "BMW",
+          "GE"
+        ]
+      },
+      "company_id": "11",
+      "financials": {
+        "profit": "Not disclosed",
+        "revenue": "$800M - $1B",
+        "valuation": "$2B+",
+        "growth_rate": "10-15%",
+        "profitability": "Profitable"
+      },
+      "leadership": {
+        "ceo": "Ajit Prabhu"
+      },
+      "operations": {
+        "countries": [
+          "India",
+          "United States",
+          "United Kingdom",
+          "Germany",
+          "Japan",
+          "Singapore",
+          "Sweden",
+          "Canada"
+        ],
+        "office_count": "50+",
+        "employee_size": "20,000 employees",
+        "office_locations": [
+          "Bengaluru",
+          "Hyderabad",
+          "Pune",
+          "London",
+          "Munich",
+          "Tokyo"
+        ]
+      },
+      "short_name": "Quest Global",
+      "competition": {
+        "advantages": [
+          "Domain expertise",
+          "Strong OEM relationships"
+        ],
+        "weaknesses": [
+          "Limited SaaS presence",
+          "Sector dependency"
+        ],
+        "competitors": [
+          "Cyient",
+          "LTTS",
+          "Tata Technologies",
+          "HCLTech"
+        ]
+      },
+      "compensation": {
+        "bonus": "Performance-based",
+        "esops": "Not clear",
+        "benefits": "Standard",
+        "pay_structure": "Competitive"
+      },
+      "business_model": {
+        "offerings": [
+          "Product Engineering",
+          "Embedded Systems",
+          "Software Engineering",
+          "Digital Transformation",
+          "Supply Chain Engineering"
+        ],
+        "focus_sectors": [
+          "Aerospace",
+          "Automotive",
+          "Energy",
+          "Medical Devices"
+        ],
+        "target_customers": [
+          "Fortune 500 OEMs"
+        ],
+        "value_proposition": "Accelerates product innovation and reduces engineering costs"
+      },
+      "career_outcomes": {
+        "network": "Strong",
+        "brand_value": "Moderate",
+        "global_exposure": "High",
+        "exit_opportunities": "Good in engineering domain"
+      },
+      "work_conditions": {
+        "hours": "45",
+        "leave": "Standard",
+        "weekend": "Occasional",
+        "overtime": "High during delivery",
+        "flexibility": "Hybrid",
+        "burnout_risk": "Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Engineering-focused impact",
+        "crisis_behavior": "Resilient",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 1997,
+      "intelligence_data": {
+        "company_tier": "Premium Niche",
+        "reasoning": "Quest Global Services Pte. Ltd. is a premium niche company due to its strong domain expertise, mature AI adoption, and high employee size. However, it is not an elite dream company as it has limited SaaS presence and is sector-dependent. The company's high growth rate, strong learning culture, and competitive pay structure make it an attractive option for students, but its selectivity and moderately high burnout risk set it apart from elite dream companies.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "1-3 students",
+          "tier_3": "Rarely hires"
+        },
+        "badges": [
+          "High Volume Campus Hiring in Top Tier Colleges",
+          "Competitive Pay",
+          "Strong Learning Culture"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "12",
+    "full_json": {
+      "name": "Roppen Transportation Services Private Limited",
+      "risk": {
+        "macro": "Fuel price volatility",
+        "geopolitical": "Low"
+      },
+      "tech": {
+        "stack": [
+          "React Native",
+          "Node.js",
+          "Python",
+          "AWS"
+        ],
+        "ai_adoption": "Mature",
+        "cybersecurity": "Robust"
+      },
+      "growth": {
+        "learning": "High",
+        "promotion": "OKR-based",
+        "mentorship": "Informal",
+        "role_clarity": "High",
+        "internal_mobility": "Moderate"
+      },
+      "hiring": {
+        "avg_tenure": "1.5-2.5 years",
+        "hiring_velocity": "Engineering, Operations, City management roles",
+        "employee_turnover": "High in some teams"
+      },
+      "people": {
+        "training": "Moderate",
+        "diversity": "Improving",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Fast-paced startup",
+        "manager_quality": "Mixed",
+        "feedback_culture": "Regular",
+        "ethical_standards": "Strong",
+        "diversity_inclusion": "Active",
+        "psychological_safety": "Moderate"
+      },
+      "category": "Startup",
+      "location": {
+        "type": "Urban tech hub",
+        "safety": "High",
+        "transport": "Good"
+      },
+      "logo_url": "https://www.rapido.bike/static/rapido-logo.svg",
+      "overview": {
+        "description": "Rapido is India's leading bike-taxi and ride-hailing platform offering affordable intra-city mobility solutions including bike, auto, and cab rides along with delivery services.",
+        "headquarters": "Bengaluru, India",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "gtm": "App-based B2C",
+        "priorities": [
+          "Profitability",
+          "EV transition",
+          "Expansion"
+        ]
+      },
+      "customers": {
+        "nps": "40",
+        "churn": "15-25%",
+        "top_clients": [
+          "Mass urban users"
+        ]
+      },
+      "company_id": "12",
+      "financials": {
+        "profit": "-\u20b9258 Cr",
+        "revenue": "\u20b9934 Cr",
+        "valuation": "$1.2B",
+        "growth_rate": "44%",
+        "profitability": "Not profitable"
+      },
+      "leadership": {
+        "ceo": "Aravind Sanka"
+      },
+      "operations": {
+        "countries": [
+          "India"
+        ],
+        "office_count": "Limited",
+        "employee_size": "5000 employees",
+        "office_locations": [
+          "Bengaluru",
+          "Delhi",
+          "Mumbai",
+          "Hyderabad",
+          "Chennai"
+        ]
+      },
+      "short_name": "Rapido",
+      "competition": {
+        "advantages": [
+          "Bike taxi leadership",
+          "Low-cost model"
+        ],
+        "weaknesses": [
+          "Regulatory risks",
+          "Weather dependency"
+        ],
+        "competitors": [
+          "Ola",
+          "Uber",
+          "inDrive",
+          "BluSmart"
+        ]
+      },
+      "compensation": {
+        "bonus": "Not predictable",
+        "esops": "Available for key roles",
+        "benefits": "Standard",
+        "pay_structure": "Salary + equity"
+      },
+      "business_model": {
+        "offerings": [
+          "Bike taxi",
+          "Auto rides",
+          "Cab booking",
+          "Parcel delivery",
+          "Food delivery"
+        ],
+        "focus_sectors": [
+          "Mobility",
+          "Logistics",
+          "Delivery"
+        ],
+        "target_customers": [
+          "Daily commuters",
+          "Students",
+          "Corporates"
+        ],
+        "value_proposition": "Fast, affordable, traffic-efficient urban mobility"
+      },
+      "career_outcomes": {
+        "network": "Strong",
+        "brand_value": "High in India mobility",
+        "global_exposure": "Limited",
+        "exit_opportunities": "Strong in startups"
+      },
+      "work_conditions": {
+        "hours": "45-55",
+        "leave": "Standard",
+        "weekend": "Occasional",
+        "overtime": "High",
+        "flexibility": "Hybrid",
+        "burnout_risk": "High"
+      },
+      "final_assessment": {
+        "sustainability": "EV transition focus",
+        "crisis_behavior": "Resilient (regulatory challenges ongoing)",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2015,
+      "intelligence_data": {
+        "company_tier": "Mid-Tier Recruiter",
+        "reasoning": "Roppen Transportation Services Private Limited is a startup with moderate growth and a strong presence in the Indian mobility market. While it has a robust tech stack and offers competitive compensation, its hiring velocity and employee turnover rates suggest it may not be as selective as elite dream companies. The company's focus on profitability, EV transition, and expansion also indicates a need for a steady influx of talent, but not necessarily at the same level as mass recruiters.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "2-5 students",
+          "tier_3": "1-3 students"
+        },
+        "badges": [
+          "Moderate Pay",
+          "Opportunistic Hiring",
+          "Growth-Oriented"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "13",
+    "full_json": {
+      "name": "Rappi S.A.S.",
+      "risk": {
+        "macro": "Inflation, currency volatility",
+        "geopolitical": "High (LatAm regulations)"
+      },
+      "tech": {
+        "stack": [
+          "React Native",
+          "Node.js",
+          "Python",
+          "AWS"
+        ],
+        "ai_adoption": "High",
+        "cybersecurity": "Fintech-grade"
+      },
+      "growth": {
+        "learning": "Strong",
+        "promotion": "Clear",
+        "mentorship": "Available",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "1.5-2.5 years",
+        "hiring_velocity": "Engineering, Product, Data, Operations",
+        "employee_turnover": "25-35%"
+      },
+      "people": {
+        "training": "Moderate",
+        "diversity": "Strong",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Fast-paced startup",
+        "manager_quality": "Mixed",
+        "feedback_culture": "OKR-driven",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "Moderate"
+      },
+      "category": "Startup",
+      "location": {
+        "type": "Urban business hubs",
+        "safety": "High",
+        "transport": "Good"
+      },
+      "logo_url": "https://rappi.com/wp-content/uploads/2023/07/logo-rappi.png",
+      "overview": {
+        "description": "Rappi is a Latin American super-app offering on-demand delivery, fintech services, and digital commerce solutions across multiple categories including food, groceries, and financial services.",
+        "headquarters": "Bogot\u00e1, Colombia",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "gtm": "Super-app ecosystem",
+        "priorities": [
+          "Fintech expansion",
+          "Profitability"
+        ]
+      },
+      "customers": {
+        "nps": "35",
+        "churn": "20-30%",
+        "top_clients": [
+          "Consumers",
+          "Restaurants",
+          "Retailers"
+        ]
+      },
+      "company_id": "13",
+      "financials": {
+        "profit": "Not profitable",
+        "revenue": "$1B",
+        "valuation": "$5B",
+        "growth_rate": "35-45%",
+        "profitability": "Scaling"
+      },
+      "leadership": {
+        "ceo": "Sim\u00f3n Borrero"
+      },
+      "operations": {
+        "countries": [
+          "Colombia",
+          "Mexico",
+          "Brazil",
+          "Argentina",
+          "Chile",
+          "Peru"
+        ],
+        "office_count": "20+",
+        "employee_size": "4000-6000 employees",
+        "office_locations": [
+          "Bogot\u00e1",
+          "Mexico City",
+          "S\u00e3o Paulo",
+          "Buenos Aires"
+        ]
+      },
+      "short_name": "Rappi",
+      "competition": {
+        "advantages": [
+          "Super-app ecosystem",
+          "Strong LatAm presence"
+        ],
+        "weaknesses": [
+          "High burn rate",
+          "Regulatory pressure"
+        ],
+        "competitors": [
+          "Uber Eats",
+          "DoorDash",
+          "Glovo",
+          "iFood"
+        ]
+      },
+      "compensation": {
+        "bonus": "Not predictable",
+        "esops": "Available",
+        "benefits": "Standard",
+        "pay_structure": "Salary + equity"
+      },
+      "business_model": {
+        "offerings": [
+          "Food delivery",
+          "Grocery delivery",
+          "Courier services",
+          "Fintech (RappiPay)",
+          "Entertainment services"
+        ],
+        "focus_sectors": [
+          "Delivery",
+          "Fintech",
+          "E-commerce"
+        ],
+        "target_customers": [
+          "Consumers",
+          "SMEs",
+          "Merchants"
+        ],
+        "value_proposition": "All-in-one super-app for daily needs with fast delivery and integrated payments"
+      },
+      "career_outcomes": {
+        "network": "Strong",
+        "brand_value": "High in LatAm",
+        "global_exposure": "Regional",
+        "exit_opportunities": "Strong in startups"
+      },
+      "work_conditions": {
+        "hours": "50-60",
+        "leave": "15-20 days",
+        "weekend": "Occasional",
+        "overtime": "High",
+        "flexibility": "Hybrid",
+        "burnout_risk": "High"
+      },
+      "final_assessment": {
+        "sustainability": "Moderate",
+        "crisis_behavior": "Resilient under regulatory pressure",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2015,
+      "intelligence_data": {
+        "company_tier": "Unknown",
+        "reasoning": "Failed to analyze data.",
+        "estimated_annual_hiring_volume": "Unknown",
+        "badges": []
+      }
+    }
+  },
+  {
+    "company_id": "14",
+    "full_json": {
+      "name": "Razorpay Software Private Limited",
+      "risk": {
+        "macro": "Economic slowdown",
+        "geopolitical": "Medium (India regulations)"
+      },
+      "tech": {
+        "stack": [
+          "Java",
+          "Go",
+          "Python",
+          "React",
+          "AWS"
+        ],
+        "ai_adoption": "High",
+        "cybersecurity": "Bank-grade"
+      },
+      "growth": {
+        "learning": "Very high",
+        "promotion": "Clear",
+        "mentorship": "Structured",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "2.5-3.5 years",
+        "hiring_velocity": "Engineering, Product, Sales, Risk roles",
+        "employee_turnover": "15-20%"
+      },
+      "people": {
+        "training": "High investment",
+        "diversity": "Strong",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Engineering-driven startup",
+        "manager_quality": "High",
+        "feedback_culture": "Transparent",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "High"
+      },
+      "category": "Startup",
+      "location": {
+        "type": "Tech hubs",
+        "safety": "High",
+        "transport": "Very good"
+      },
+      "logo_url": "https://razorpay.com/assets/razorpay-logo.svg",
+      "overview": {
+        "description": "Razorpay is an Indian fintech company providing payment gateway, banking infrastructure, payroll, and lending solutions for businesses.",
+        "headquarters": "Bengaluru, India",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "gtm": "Product-led + enterprise sales",
+        "priorities": [
+          "International expansion",
+          "Fintech SaaS"
+        ]
+      },
+      "customers": {
+        "nps": "65",
+        "churn": "10-15%",
+        "top_clients": [
+          "Startups",
+          "E-commerce platforms"
+        ]
+      },
+      "company_id": "14",
+      "financials": {
+        "profit": "Near break-even",
+        "revenue": "$300M-$400M",
+        "valuation": "$7.5B",
+        "growth_rate": "40-50%",
+        "profitability": "Scaling"
+      },
+      "leadership": {
+        "ceo": "Harshil Mathur"
+      },
+      "operations": {
+        "countries": [
+          "India",
+          "Singapore",
+          "Malaysia"
+        ],
+        "office_count": "5+",
+        "employee_size": "2500-3500 employees",
+        "office_locations": [
+          "Bengaluru",
+          "Mumbai",
+          "Delhi",
+          "Hyderabad",
+          "Chennai"
+        ]
+      },
+      "short_name": "Razorpay",
+      "competition": {
+        "advantages": [
+          "Developer-friendly APIs",
+          "Full-stack fintech"
+        ],
+        "weaknesses": [
+          "India dependency",
+          "Regulatory risks"
+        ],
+        "competitors": [
+          "Stripe",
+          "Cashfree",
+          "PayU",
+          "BillDesk"
+        ]
+      },
+      "compensation": {
+        "bonus": "Predictable",
+        "esops": "Strong",
+        "benefits": "Comprehensive",
+        "pay_structure": "Salary + ESOPs"
+      },
+      "business_model": {
+        "offerings": [
+          "Payment Gateway",
+          "RazorpayX (Business Banking)",
+          "Payroll",
+          "Lending",
+          "POS Solutions"
+        ],
+        "focus_sectors": [
+          "Fintech",
+          "SaaS",
+          "Payments"
+        ],
+        "target_customers": [
+          "Startups",
+          "SMEs",
+          "Enterprises"
+        ],
+        "value_proposition": "Full-stack financial infrastructure for businesses"
+      },
+      "career_outcomes": {
+        "network": "Strong",
+        "brand_value": "Very high in India fintech",
+        "global_exposure": "Growing",
+        "exit_opportunities": "Excellent"
+      },
+      "work_conditions": {
+        "hours": "45-55",
+        "leave": "Flexible",
+        "weekend": "Rare",
+        "overtime": "Moderate",
+        "flexibility": "Hybrid",
+        "burnout_risk": "Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Moderate",
+        "crisis_behavior": "Resilient (regulation-aware)",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2014,
+      "intelligence_data": {
+        "company_tier": "Elite Dream Company",
+        "reasoning": "Razorpay is a high-growth fintech company with a strong brand value in the Indian market, high revenue, and a high valuation. It has a clear mission, high ethical standards, and a strong focus on employee growth and development. These factors, along with its high investment in training and strong ESOPs, make it an attractive company for top talent, indicating that it is highly selective in its hiring process and offers competitive compensation.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "2-5 students",
+          "tier_3": "Rarely hires"
+        },
+        "badges": [
+          "Highly Selective",
+          "Top Tier Pay",
+          "Stable Backup"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "15",
+    "full_json": {
+      "name": "Redfin Corporation",
+      "risk": {
+        "macro": "Interest rates, housing market",
+        "geopolitical": "Low"
+      },
+      "tech": {
+        "stack": [
+          "Java",
+          "Python",
+          "React",
+          "AWS"
+        ],
+        "ai_adoption": "High",
+        "cybersecurity": "Enterprise-grade"
+      },
+      "growth": {
+        "learning": "High",
+        "promotion": "Clear",
+        "mentorship": "Structured",
+        "role_clarity": "High",
+        "internal_mobility": "Moderate"
+      },
+      "hiring": {
+        "avg_tenure": "2-3 years",
+        "hiring_velocity": "Agents, Engineers, Data Analysts, Product roles",
+        "employee_turnover": "20-30%"
+      },
+      "people": {
+        "training": "High investment",
+        "diversity": "Strong",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Data-driven, collaborative",
+        "manager_quality": "High",
+        "feedback_culture": "Open",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "High"
+      },
+      "category": "Enterprise",
+      "location": {
+        "type": "Urban tech hubs",
+        "safety": "High",
+        "transport": "Very good"
+      },
+      "logo_url": "https://www.redfin.com/static/redfin-logo.svg",
+      "overview": {
+        "description": "Redfin is a technology-powered real estate brokerage providing buying, selling, renting, and mortgage services with a data-driven and consumer-first approach.",
+        "headquarters": "Seattle, Washington, USA",
+        "nature_of_company": "Subsidiary (Rocket Companies)"
+      },
+      "strategy": {
+        "gtm": "Platform + agent model",
+        "priorities": [
+          "Mortgage integration",
+          "AI tools"
+        ]
+      },
+      "customers": {
+        "nps": "50",
+        "churn": "Not applicable",
+        "top_clients": [
+          "Home buyers",
+          "Home sellers"
+        ]
+      },
+      "company_id": "15",
+      "financials": {
+        "profit": "Not profitable",
+        "revenue": "$1.5B-$2B",
+        "valuation": "$2.76B",
+        "growth_rate": "10-20%",
+        "profitability": "Scaling"
+      },
+      "leadership": {
+        "ceo": "Varun Krishna (interim)"
+      },
+      "operations": {
+        "countries": [
+          "United States",
+          "Canada"
+        ],
+        "office_count": "100+ markets",
+        "employee_size": "5000-6000 employees",
+        "office_locations": [
+          "Seattle",
+          "San Francisco",
+          "Los Angeles",
+          "Chicago",
+          "Washington DC"
+        ]
+      },
+      "short_name": "Redfin",
+      "competition": {
+        "advantages": [
+          "Lower fees",
+          "Tech-driven platform"
+        ],
+        "weaknesses": [
+          "Market sensitivity",
+          "Profitability challenges"
+        ],
+        "competitors": [
+          "Zillow",
+          "Compass",
+          "Opendoor"
+        ]
+      },
+      "compensation": {
+        "bonus": "Moderate",
+        "esops": "Limited",
+        "benefits": "Comprehensive",
+        "pay_structure": "Salary-based agents + corporate pay"
+      },
+      "business_model": {
+        "offerings": [
+          "Real estate brokerage",
+          "Mortgage services",
+          "Rental platform",
+          "Title services",
+          "Property valuation tools"
+        ],
+        "focus_sectors": [
+          "Real Estate",
+          "PropTech"
+        ],
+        "target_customers": [
+          "Home buyers",
+          "Home sellers",
+          "Renters"
+        ],
+        "value_proposition": "Lower fees with technology-driven transparency"
+      },
+      "career_outcomes": {
+        "network": "Strong",
+        "brand_value": "High",
+        "global_exposure": "Limited",
+        "exit_opportunities": "Strong in proptech"
+      },
+      "work_conditions": {
+        "hours": "40-50",
+        "leave": "Standard",
+        "weekend": "Common for agents",
+        "overtime": "Moderate",
+        "flexibility": "Hybrid",
+        "burnout_risk": "Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Moderate",
+        "crisis_behavior": "Resilient (market-driven volatility)",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2004,
+      "intelligence_data": {
+        "company_tier": "Unknown",
+        "reasoning": "Failed to analyze data.",
+        "estimated_annual_hiring_volume": "Unknown",
+        "badges": []
+      }
+    }
+  },
+  {
+    "company_id": "16",
+    "full_json": {
+      "name": "Publicis Sapient",
+      "risk": {
+        "macro": "IT budget cycles",
+        "geopolitical": "Moderate"
+      },
+      "tech": {
+        "stack": [
+          "AWS",
+          "Azure",
+          "GCP",
+          "Snowflake",
+          "Databricks"
+        ],
+        "ai_adoption": "High",
+        "cybersecurity": "Enterprise-grade"
+      },
+      "growth": {
+        "learning": "Strong",
+        "promotion": "Moderate",
+        "mentorship": "Structured",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "4.1 years",
+        "hiring_velocity": "AI Engineering, Consulting, Data Science",
+        "employee_turnover": "20%"
+      },
+      "people": {
+        "training": "High investment",
+        "diversity": "Strong",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Engineering-first",
+        "manager_quality": "Good",
+        "feedback_culture": "Continuous",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "High"
+      },
+      "category": "Enterprise",
+      "location": {
+        "type": "IT parks / metro hubs",
+        "safety": "High",
+        "transport": "Excellent"
+      },
+      "logo_url": "https://www.publicissapient.com/favicon.ico",
+      "overview": {
+        "description": "Publicis Sapient is a global digital transformation and consulting company delivering enterprise AI platforms, agentic systems, and data-driven modernization solutions.",
+        "headquarters": "Boston, Massachusetts, USA",
+        "nature_of_company": "Subsidiary (Publicis Groupe)"
+      },
+      "strategy": {
+        "gtm": "Enterprise consulting",
+        "priorities": [
+          "Agentic AI",
+          "Enterprise AI platforms"
+        ]
+      },
+      "customers": {
+        "nps": "45-50",
+        "churn": "Low",
+        "top_clients": [
+          "Marriott",
+          "Goldman Sachs",
+          "Unilever"
+        ]
+      },
+      "company_id": "16",
+      "financials": {
+        "profit": "\u20ac1.3B",
+        "revenue": "$13.1B (group)",
+        "valuation": "$30B",
+        "growth_rate": "4.2%",
+        "profitability": "Profitable"
+      },
+      "leadership": {
+        "ceo": "Krish Mantri"
+      },
+      "operations": {
+        "countries": [
+          "United States",
+          "United Kingdom",
+          "India",
+          "Canada",
+          "Germany",
+          "France",
+          "Singapore",
+          "UAE"
+        ],
+        "office_count": "50+",
+        "employee_size": "20,000+ employees",
+        "office_locations": [
+          "Boston",
+          "New York",
+          "London",
+          "Bengaluru",
+          "Mumbai",
+          "Berlin"
+        ]
+      },
+      "short_name": "Publicis Sapient",
+      "competition": {
+        "advantages": [
+          "AI-first platforms",
+          "Publicis ecosystem",
+          "Global delivery"
+        ],
+        "weaknesses": [
+          "Brand overshadowing",
+          "Cost pressure"
+        ],
+        "competitors": [
+          "Accenture",
+          "Deloitte",
+          "IBM Consulting",
+          "Capgemini"
+        ]
+      },
+      "compensation": {
+        "bonus": "Moderate",
+        "esops": "Available",
+        "benefits": "Comprehensive",
+        "pay_structure": "Standard"
+      },
+      "business_model": {
+        "offerings": [
+          "Enterprise AI platforms (Bodhi, Slingshot)",
+          "Digital transformation",
+          "Data & AI modernization",
+          "Cloud engineering",
+          "Consulting services"
+        ],
+        "focus_sectors": [
+          "IT",
+          "Finance",
+          "Healthcare",
+          "Retail",
+          "Telecom"
+        ],
+        "target_customers": [
+          "Global enterprises"
+        ],
+        "value_proposition": "AI-first enterprise transformation with faster delivery and cost efficiency"
+      },
+      "career_outcomes": {
+        "network": "Strong",
+        "brand_value": "High",
+        "global_exposure": "High",
+        "exit_opportunities": "Excellent"
+      },
+      "work_conditions": {
+        "hours": "9-6",
+        "leave": "Comprehensive",
+        "weekend": "Rare",
+        "overtime": "Moderate",
+        "flexibility": "Hybrid",
+        "burnout_risk": "Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Net-zero aligned",
+        "crisis_behavior": "Stable",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 1990,
+      "intelligence_data": {
+        "company_tier": "Premium Niche",
+        "reasoning": "Publicis Sapient is a large company with a strong presence in the industry, but its campus hiring volume is not as high as mass recruiters. It has a strong brand value, high growth rate, and excellent career outcomes, making it a premium niche company.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "1-3 students",
+          "tier_3": "Rarely hires"
+        },
+        "badges": [
+          "Highly Selective",
+          "Top Tier Pay",
+          "Stable Backup"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "17",
+    "full_json": {
+      "name": "Poe (Platform for Open Exploration)",
+      "risk": {
+        "macro": "AI regulation, pricing",
+        "geopolitical": "Moderate"
+      },
+      "tech": {
+        "stack": [
+          "Python",
+          "React",
+          "AWS",
+          "AI APIs"
+        ],
+        "ai_adoption": "Core",
+        "cybersecurity": "Standard"
+      },
+      "growth": {
+        "learning": "Strong",
+        "promotion": "Clear",
+        "mentorship": "High",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "2-3 years",
+        "hiring_velocity": "AI Engineers, Mobile Engineers, Product roles",
+        "employee_turnover": "Not defined"
+      },
+      "people": {
+        "training": "Moderate",
+        "diversity": "Strong",
+        "remote_policy": "Remote-first"
+      },
+      "culture": {
+        "work_culture": "Engineering-led, remote-first",
+        "manager_quality": "High",
+        "feedback_culture": "Frequent",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "Strong"
+      },
+      "category": "Startup",
+      "location": {
+        "type": "Remote / tech hub",
+        "safety": "High",
+        "transport": "Good"
+      },
+      "logo_url": "https://poe.com/static/logo.png",
+      "overview": {
+        "description": "Poe is an AI platform by Quora that aggregates multiple AI models into a single interface, enabling users to chat, build bots, and create AI-powered applications.",
+        "headquarters": "Mountain View, California, USA",
+        "nature_of_company": "Subsidiary (Quora)"
+      },
+      "strategy": {
+        "gtm": "Product-led growth",
+        "priorities": [
+          "Creator ecosystem",
+          "Multimodal AI"
+        ]
+      },
+      "customers": {
+        "nps": "60+",
+        "churn": "5-10%",
+        "top_clients": [
+          "Consumers",
+          "Developers"
+        ]
+      },
+      "company_id": "17",
+      "financials": {
+        "profit": "Not profitable",
+        "revenue": "$50M-$100M (Quora)",
+        "valuation": "$2B",
+        "growth_rate": "200%+",
+        "profitability": "Scaling"
+      },
+      "leadership": {
+        "ceo": "Adam D'Angelo"
+      },
+      "operations": {
+        "countries": [
+          "United States",
+          "Canada",
+          "United Kingdom",
+          "Germany"
+        ],
+        "office_count": "Not defined",
+        "employee_size": "1200 (Quora)",
+        "office_locations": [
+          "Mountain View",
+          "Remote global"
+        ]
+      },
+      "short_name": "Poe",
+      "competition": {
+        "advantages": [
+          "Multi-model access",
+          "Bot ecosystem"
+        ],
+        "weaknesses": [
+          "Dependency on APIs",
+          "Limited enterprise features"
+        ],
+        "competitors": [
+          "ChatGPT",
+          "Claude",
+          "Perplexity",
+          "Microsoft Copilot"
+        ]
+      },
+      "compensation": {
+        "bonus": "Low predictability",
+        "esops": "Standard",
+        "benefits": "Good",
+        "pay_structure": "Salary + Equity"
+      },
+      "business_model": {
+        "offerings": [
+          "Multi-model AI chat",
+          "Custom bot creation",
+          "AI APIs",
+          "Content generation"
+        ],
+        "focus_sectors": [
+          "AI",
+          "Consumer Tech",
+          "Creator Economy"
+        ],
+        "target_customers": [
+          "Consumers",
+          "Developers",
+          "Creators"
+        ],
+        "value_proposition": "Unified access to multiple AI models with easy bot creation"
+      },
+      "career_outcomes": {
+        "network": "Strong",
+        "brand_value": "High",
+        "global_exposure": "High",
+        "exit_opportunities": "Excellent"
+      },
+      "work_conditions": {
+        "hours": "40-50",
+        "leave": "Unlimited PTO",
+        "weekend": "Rare",
+        "overtime": "Low",
+        "flexibility": "Remote",
+        "burnout_risk": "Low-Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Moderate",
+        "crisis_behavior": "Stable",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2022,
+      "intelligence_data": {
+        "company_tier": "Premium Niche",
+        "reasoning": "Poe is a subsidiary of Quora with a strong focus on AI and a remote-first work culture. While it has a high growth rate and valuation, its hiring volume and selectivity are not on the same level as elite dream companies. The company's focus on specific areas like AI and creator ecosystem also suggests a more niche approach to recruitment.",
+        "campus_hiring_volumes": {
+          "tier_1": "5-10 students",
+          "tier_2": "1-3 students",
+          "tier_3": "Rarely hires"
+        },
+        "badges": [
+          "Stable Backup",
+          "Top Tier Pay"
+        ]
+      }
+    }
+  },
+  {
+    "company_id": "18",
+    "full_json": {
+      "name": "Red Hat, Inc.",
+      "risk": {
+        "macro": "Cloud market shifts",
+        "geopolitical": "Moderate"
+      },
+      "tech": {
+        "stack": [
+          "Linux",
+          "Kubernetes",
+          "Python",
+          "Go",
+          "Java"
+        ],
+        "ai_adoption": "High",
+        "cybersecurity": "Very strong"
+      },
+      "growth": {
+        "learning": "Very high",
+        "promotion": "Clear",
+        "mentorship": "Strong",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "4-6 years",
+        "hiring_velocity": "Software Engineering, Cloud, Security, Product roles",
+        "employee_turnover": "10-15%"
+      },
+      "people": {
+        "training": "High investment",
+        "diversity": "Strong",
+        "remote_policy": "Hybrid/Flexible"
+      },
+      "culture": {
+        "work_culture": "Open-source driven, collaborative",
+        "manager_quality": "High",
+        "feedback_culture": "Strong",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "High"
+      },
+      "category": "Enterprise",
+      "location": {
+        "type": "Global tech hubs",
+        "safety": "High",
+        "transport": "Very good"
+      },
+      "logo_url": "https://www.redhat.com/sites/default/files/styles/large/public/redhat-logo.png",
+      "overview": {
+        "description": "Red Hat is a global leader in enterprise open-source software, providing Linux, hybrid cloud, Kubernetes, automation, and AI solutions to organizations worldwide.",
+        "headquarters": "Raleigh, North Carolina, USA",
+        "nature_of_company": "Subsidiary (IBM)"
+      },
+      "strategy": {
+        "gtm": "Enterprise + ecosystem partnerships",
+        "priorities": [
+          "Hybrid cloud",
+          "AI integration",
+          "Edge computing"
+        ]
+      },
+      "customers": {
+        "nps": "40-50",
+        "churn": "Low",
+        "top_clients": [
+          "Fortune 500 companies",
+          "Governments"
+        ]
+      },
+      "company_id": "18",
+      "financials": {
+        "profit": "Profitable (IBM segment)",
+        "revenue": "$6B-$7B",
+        "valuation": "$34B+ (acquisition baseline)",
+        "growth_rate": "8-12%",
+        "profitability": "Highly profitable"
+      },
+      "leadership": {
+        "ceo": "Matt Hicks"
+      },
+      "operations": {
+        "countries": [
+          "United States",
+          "United Kingdom",
+          "Germany",
+          "India",
+          "China",
+          "Japan",
+          "Canada",
+          "Australia",
+          "France",
+          "Brazil"
+        ],
+        "office_count": "100+",
+        "employee_size": "19000-21000 employees",
+        "office_locations": [
+          "Raleigh",
+          "Bengaluru",
+          "London",
+          "Tokyo",
+          "Sydney"
+        ]
+      },
+      "short_name": "Red Hat",
+      "competition": {
+        "advantages": [
+          "Open-source leadership",
+          "IBM backing",
+          "Hybrid cloud strength"
+        ],
+        "weaknesses": [
+          "Complex deployments",
+          "IBM dependency"
+        ],
+        "competitors": [
+          "SUSE",
+          "Canonical",
+          "VMware",
+          "Microsoft",
+          "AWS"
+        ]
+      },
+      "compensation": {
+        "bonus": "Moderate-high",
+        "esops": "IBM stock",
+        "benefits": "Comprehensive",
+        "pay_structure": "Salary + bonuses + IBM equity"
+      },
+      "business_model": {
+        "offerings": [
+          "Red Hat Enterprise Linux",
+          "OpenShift",
+          "Ansible Automation",
+          "OpenStack",
+          "Cloud & AI services"
+        ],
+        "focus_sectors": [
+          "IT",
+          "Cloud",
+          "Enterprise Software"
+        ],
+        "target_customers": [
+          "Fortune 500",
+          "Government",
+          "Enterprises"
+        ],
+        "value_proposition": "Enterprise-grade open source with security, scalability, and flexibility"
+      },
+      "career_outcomes": {
+        "network": "Exceptional",
+        "brand_value": "Very high",
+        "global_exposure": "High",
+        "exit_opportunities": "Excellent"
+      },
+      "work_conditions": {
+        "hours": "40-45",
+        "leave": "Generous",
+        "weekend": "Rare",
+        "overtime": "Low-Moderate",
+        "flexibility": "High",
+        "burnout_risk": "Low-Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Strong",
+        "crisis_behavior": "Stable and transparent",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 1993,
+      "intelligence_data": {
+        "company_tier": "Unknown",
+        "reasoning": "Failed to analyze data.",
+        "estimated_annual_hiring_volume": "Unknown",
+        "badges": []
+      }
+    }
+  },
+  {
+    "company_id": "19",
+    "full_json": {
+      "name": "Redis Inc.",
+      "risk": {
+        "macro": "Cloud and AI competition",
+        "geopolitical": "Moderate"
+      },
+      "tech": {
+        "stack": [
+          "C",
+          "Python",
+          "Go",
+          "Kubernetes",
+          "Cloud"
+        ],
+        "ai_adoption": "Very High",
+        "cybersecurity": "Strong"
+      },
+      "growth": {
+        "learning": "Very high",
+        "promotion": "Moderate",
+        "mentorship": "Strong",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "3-5 years",
+        "hiring_velocity": "Engineering, DevOps, Product, Sales",
+        "employee_turnover": "10-15%"
+      },
+      "people": {
+        "training": "High investment",
+        "diversity": "Strong",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Engineering-driven, collaborative",
+        "manager_quality": "High",
+        "feedback_culture": "Strong",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "High"
+      },
+      "category": "Enterprise",
+      "location": {
+        "type": "Tech hubs",
+        "safety": "High",
+        "transport": "Good"
+      },
+      "logo_url": "https://redis.io/wp-content/uploads/2021/01/redis-logo.svg",
+      "overview": {
+        "description": "Redis is a leading real-time data platform providing in-memory database, caching, and AI-powered vector search solutions for modern applications.",
+        "headquarters": "San Francisco, California, USA",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "gtm": "Product-led + enterprise sales",
+        "priorities": [
+          "AI vector database",
+          "Cloud expansion"
+        ]
+      },
+      "customers": {
+        "nps": "50-60",
+        "churn": "Low",
+        "top_clients": [
+          "Fortune 500",
+          "AI companies",
+          "E-commerce platforms"
+        ]
+      },
+      "company_id": "19",
+      "financials": {
+        "profit": "Not disclosed",
+        "revenue": "$250M-$300M",
+        "valuation": "$2B+",
+        "growth_rate": "30-40%",
+        "profitability": "Growth-focused"
+      },
+      "leadership": {
+        "ceo": "Rowan Trollope"
+      },
+      "operations": {
+        "countries": [
+          "United States",
+          "Israel",
+          "United Kingdom",
+          "Germany",
+          "India",
+          "Australia",
+          "Canada",
+          "Singapore",
+          "Japan",
+          "Brazil"
+        ],
+        "office_count": "8-12",
+        "employee_size": "900-1200 employees",
+        "office_locations": [
+          "San Francisco",
+          "Tel Aviv",
+          "Bengaluru",
+          "London",
+          "Tokyo"
+        ]
+      },
+      "short_name": "Redis",
+      "competition": {
+        "advantages": [
+          "Speed",
+          "Open-source ecosystem",
+          "AI vector support"
+        ],
+        "weaknesses": [
+          "Licensing controversy",
+          "Cost for enterprise features"
+        ],
+        "competitors": [
+          "MongoDB",
+          "Couchbase",
+          "Aerospike",
+          "Amazon MemoryDB"
+        ]
+      },
+      "compensation": {
+        "bonus": "Moderate",
+        "esops": "Strong",
+        "benefits": "Comprehensive",
+        "pay_structure": "Salary + ESOPs"
+      },
+      "business_model": {
+        "offerings": [
+          "Redis Enterprise Cloud",
+          "Redis Enterprise Software",
+          "Redis Modules (Search, JSON, AI)",
+          "Vector Database",
+          "Managed Cloud Services"
+        ],
+        "focus_sectors": [
+          "Database",
+          "Cloud",
+          "AI"
+        ],
+        "target_customers": [
+          "Enterprises",
+          "AI startups",
+          "Developers"
+        ],
+        "value_proposition": "Ultra-fast real-time data platform with strong developer ecosystem"
+      },
+      "career_outcomes": {
+        "network": "Exceptional",
+        "brand_value": "Very high",
+        "global_exposure": "High",
+        "exit_opportunities": "Excellent"
+      },
+      "work_conditions": {
+        "hours": "40-50",
+        "leave": "Generous",
+        "weekend": "Rare",
+        "overtime": "Low-Moderate",
+        "flexibility": "Hybrid",
+        "burnout_risk": "Low-Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Moderate",
+        "crisis_behavior": "Stable and transparent",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2011,
+      "intelligence_data": {
+        "company_tier": "Unknown",
+        "reasoning": "Failed to analyze data.",
+        "estimated_annual_hiring_volume": "Unknown",
+        "badges": []
+      }
+    }
+  },
+  {
+    "company_id": "20",
+    "full_json": {
+      "name": "Replit, Inc.",
+      "risk": {
+        "macro": "AI competition from Big Tech",
+        "geopolitical": "Moderate"
+      },
+      "tech": {
+        "stack": [
+          "React",
+          "TypeScript",
+          "Go",
+          "Kubernetes",
+          "GCP"
+        ],
+        "ai_adoption": "Core",
+        "cybersecurity": "Strong"
+      },
+      "growth": {
+        "learning": "Very high",
+        "promotion": "Moderate",
+        "mentorship": "Strong",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "2-4 years",
+        "hiring_velocity": "Engineering, Product, Sales roles",
+        "employee_turnover": "10-15%"
+      },
+      "people": {
+        "training": "Moderate",
+        "diversity": "Strong",
+        "remote_policy": "Remote-first"
+      },
+      "culture": {
+        "work_culture": "Maker-focused, fast-paced",
+        "manager_quality": "High",
+        "feedback_culture": "Strong",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "High"
+      },
+      "category": "Startup",
+      "location": {
+        "type": "Remote / tech hub",
+        "safety": "High",
+        "transport": "Good"
+      },
+      "logo_url": "https://replit.com/favicon.ico",
+      "overview": {
+        "description": "Replit is an AI-powered cloud development platform offering a browser-based IDE, real-time collaboration, and one-click deployment for building applications.",
+        "headquarters": "San Francisco, California, USA",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "gtm": "Product-led growth",
+        "priorities": [
+          "AI coding agents",
+          "Enterprise growth"
+        ]
+      },
+      "customers": {
+        "nps": "50-60",
+        "churn": "Moderate",
+        "top_clients": [
+          "Developers",
+          "Students",
+          "Startups"
+        ]
+      },
+      "company_id": "20",
+      "financials": {
+        "profit": "Not profitable",
+        "revenue": "$25M-$50M",
+        "valuation": "$1.2B",
+        "growth_rate": "40-60%",
+        "profitability": "High-growth"
+      },
+      "leadership": {
+        "ceo": "Amjad Masad"
+      },
+      "operations": {
+        "countries": [
+          "United States",
+          "India",
+          "United Kingdom",
+          "Germany",
+          "Canada",
+          "Australia",
+          "Singapore"
+        ],
+        "office_count": "Remote-first",
+        "employee_size": "80-120 employees",
+        "office_locations": [
+          "San Francisco",
+          "Global remote"
+        ]
+      },
+      "short_name": "Replit",
+      "competition": {
+        "advantages": [
+          "Ease of use",
+          "AI integration",
+          "Real-time collaboration"
+        ],
+        "weaknesses": [
+          "Limited enterprise features",
+          "Browser dependency"
+        ],
+        "competitors": [
+          "GitHub Codespaces",
+          "CodeSandbox",
+          "StackBlitz",
+          "VS Code"
+        ]
+      },
+      "compensation": {
+        "bonus": "Low predictability",
+        "esops": "Strong",
+        "benefits": "Good",
+        "pay_structure": "Salary + ESOPs"
+      },
+      "business_model": {
+        "offerings": [
+          "Browser-based IDE",
+          "Replit AI (Ghostwriter)",
+          "Cloud deployment",
+          "Education platform",
+          "Mobile coding"
+        ],
+        "focus_sectors": [
+          "Developer Tools",
+          "AI",
+          "Education"
+        ],
+        "target_customers": [
+          "Developers",
+          "Students",
+          "Startups"
+        ],
+        "value_proposition": "All-in-one coding platform with AI assistance and zero setup"
+      },
+      "career_outcomes": {
+        "network": "Exceptional",
+        "brand_value": "Very high",
+        "global_exposure": "High",
+        "exit_opportunities": "Excellent"
+      },
+      "work_conditions": {
+        "hours": "45-55",
+        "leave": "Unlimited PTO",
+        "weekend": "Rare",
+        "overtime": "Moderate",
+        "flexibility": "Remote",
+        "burnout_risk": "Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Moderate",
+        "crisis_behavior": "Proactive and transparent",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2016,
+      "intelligence_data": {
+        "company_tier": "Unknown",
+        "reasoning": "Failed to analyze data.",
+        "estimated_annual_hiring_volume": "Unknown",
+        "badges": []
+      }
+    }
+  },
+  {
+    "company_id": "21",
+    "full_json": {
+      "name": "Retool, Inc.",
+      "risk": {
+        "macro": "Competition from Big Tech",
+        "geopolitical": "Moderate"
+      },
+      "tech": {
+        "stack": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Kubernetes",
+          "AWS"
+        ],
+        "ai_adoption": "High",
+        "cybersecurity": "Strong"
+      },
+      "growth": {
+        "learning": "Very high",
+        "promotion": "Moderate",
+        "mentorship": "Strong",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "2.5-4 years",
+        "hiring_velocity": "Engineering, Product, Sales, Design",
+        "employee_turnover": "10-18%"
+      },
+      "people": {
+        "training": "High investment",
+        "diversity": "Strong",
+        "remote_policy": "Hybrid"
+      },
+      "culture": {
+        "work_culture": "Builder-focused, fast-paced",
+        "manager_quality": "High",
+        "feedback_culture": "Strong",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "High"
+      },
+      "category": "Startup",
+      "location": {
+        "type": "Tech hubs",
+        "safety": "High",
+        "transport": "Excellent"
+      },
+      "logo_url": "https://retool.com/favicon.ico",
+      "overview": {
+        "description": "Retool is a low-code platform that enables teams to build internal tools, workflows, and AI-powered applications quickly using drag-and-drop components and integrations.",
+        "headquarters": "San Francisco, California, USA",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "gtm": "Product-led + enterprise sales",
+        "priorities": [
+          "AI builders",
+          "Enterprise growth"
+        ]
+      },
+      "customers": {
+        "nps": "60-70",
+        "churn": "Low",
+        "top_clients": [
+          "Amazon",
+          "DoorDash",
+          "Peloton"
+        ]
+      },
+      "company_id": "21",
+      "financials": {
+        "profit": "Not disclosed",
+        "revenue": "$150M-$250M",
+        "valuation": "$3.2B",
+        "growth_rate": "45-65%",
+        "profitability": "Scaling"
+      },
+      "leadership": {
+        "ceo": "David Hsu"
+      },
+      "operations": {
+        "countries": [
+          "United States",
+          "India",
+          "United Kingdom",
+          "Germany",
+          "Canada",
+          "Australia",
+          "Singapore",
+          "France"
+        ],
+        "office_count": "Remote / distributed",
+        "employee_size": "500-800 employees",
+        "office_locations": [
+          "San Francisco",
+          "London",
+          "Bengaluru",
+          "Berlin"
+        ]
+      },
+      "short_name": "Retool",
+      "competition": {
+        "advantages": [
+          "Speed",
+          "Enterprise security",
+          "AI-native features"
+        ],
+        "weaknesses": [
+          "Limited mobile support",
+          "Learning curve"
+        ],
+        "competitors": [
+          "Appsmith",
+          "Bubble",
+          "Microsoft Power Apps",
+          "Outsystems"
+        ]
+      },
+      "compensation": {
+        "bonus": "Low predictability",
+        "esops": "Strong",
+        "benefits": "Comprehensive",
+        "pay_structure": "Salary + ESOPs"
+      },
+      "business_model": {
+        "offerings": [
+          "Low-code internal tools platform",
+          "Retool AppGen (AI builder)",
+          "Workflow automation",
+          "Cloud & self-hosted deployment"
+        ],
+        "focus_sectors": [
+          "Developer Tools",
+          "Enterprise SaaS"
+        ],
+        "target_customers": [
+          "Enterprises",
+          "Startups",
+          "Engineering teams"
+        ],
+        "value_proposition": "Build internal tools 10x faster with AI and low-code flexibility"
+      },
+      "career_outcomes": {
+        "network": "Exceptional",
+        "brand_value": "Very high",
+        "global_exposure": "High",
+        "exit_opportunities": "Excellent"
+      },
+      "work_conditions": {
+        "hours": "45-55",
+        "leave": "Unlimited PTO",
+        "weekend": "Rare",
+        "overtime": "Moderate",
+        "flexibility": "Hybrid",
+        "burnout_risk": "Moderate"
+      },
+      "final_assessment": {
+        "sustainability": "Moderate",
+        "crisis_behavior": "Stable and transparent",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2017,
+      "intelligence_data": {
+        "company_tier": "Unknown",
+        "reasoning": "Failed to analyze data.",
+        "estimated_annual_hiring_volume": "Unknown",
+        "badges": []
+      }
+    }
+  },
+  {
+    "company_id": "22",
+    "full_json": {
+      "name": "Revolut Group Holdings Ltd",
+      "risk": {
+        "macro": "Interest rates, fintech competition",
+        "geopolitical": "High (multi-country regulation)"
+      },
+      "tech": {
+        "stack": [
+          "Java",
+          "Python",
+          "Kotlin",
+          "PostgreSQL",
+          "Kafka",
+          "GCP"
+        ],
+        "ai_adoption": "Critical",
+        "cybersecurity": "Very strong"
+      },
+      "growth": {
+        "learning": "High",
+        "promotion": "Merit-based",
+        "mentorship": "Structured",
+        "role_clarity": "High",
+        "internal_mobility": "High"
+      },
+      "hiring": {
+        "avg_tenure": "2-3 years",
+        "hiring_velocity": "Engineering, Product, Compliance, Operations",
+        "employee_turnover": "20-30%"
+      },
+      "people": {
+        "training": "Moderate",
+        "diversity": "Global workforce",
+        "remote_policy": "Flexible"
+      },
+      "culture": {
+        "work_culture": "High-performance, fast-paced",
+        "manager_quality": "Variable",
+        "feedback_culture": "Direct",
+        "ethical_standards": "High",
+        "diversity_inclusion": "Strong",
+        "psychological_safety": "Moderate"
+      },
+      "category": "Startup",
+      "location": {
+        "type": "Financial hubs",
+        "safety": "High",
+        "transport": "Excellent"
+      },
+      "logo_url": "https://www.revolut.com/favicon.ico",
+      "overview": {
+        "description": "Revolut is a global fintech super-app offering digital banking, payments, investing, crypto, and insurance services with multi-currency accounts and low-cost transfers.",
+        "headquarters": "London, United Kingdom",
+        "nature_of_company": "Private"
+      },
+      "strategy": {
+        "gtm": "Product-led growth + referrals",
+        "priorities": [
+          "Global expansion",
+          "Banking licenses",
+          "Wealth products"
+        ]
+      },
+      "customers": {
+        "nps": "50-60",
+        "churn": "5-8%",
+        "top_clients": [
+          "Retail users",
+          "SMEs"
+        ]
+      },
+      "company_id": "22",
+      "financials": {
+        "profit": "$2.3B",
+        "revenue": "$6B",
+        "valuation": "$75B",
+        "growth_rate": "100%",
+        "profitability": "Profitable"
+      },
+      "leadership": {
+        "ceo": "Nikolay Storonsky"
+      },
+      "operations": {
+        "countries": [
+          "United Kingdom",
+          "United States",
+          "India",
+          "Germany",
+          "France",
+          "Australia",
+          "Singapore",
+          "Brazil"
+        ],
+        "office_count": "20+",
+        "employee_size": "8000+ employees",
+        "office_locations": [
+          "London",
+          "Berlin",
+          "Paris",
+          "New York",
+          "Singapore",
+          "Tokyo"
+        ]
+      },
+      "short_name": "Revolut",
+      "competition": {
+        "advantages": [
+          "Global reach",
+          "Low fees",
+          "Product innovation"
+        ],
+        "weaknesses": [
+          "Customer support issues",
+          "Regulatory complexity"
+        ],
+        "competitors": [
+          "Wise",
+          "Monzo",
+          "N26",
+          "PayPal",
+          "Nubank"
+        ]
+      },
+      "compensation": {
+        "bonus": "Moderate",
+        "esops": "Available",
+        "benefits": "Comprehensive",
+        "pay_structure": "Salary + equity"
+      },
+      "business_model": {
+        "offerings": [
+          "Digital banking",
+          "Multi-currency accounts",
+          "Crypto & stock trading",
+          "Insurance & lending",
+          "Revolut Business"
+        ],
+        "focus_sectors": [
+          "Fintech",
+          "Banking",
+          "Payments"
+        ],
+        "target_customers": [
+          "Consumers",
+          "Freelancers",
+          "SMEs"
+        ],
+        "value_proposition": "All-in-one financial super-app with global access and low fees"
+      },
+      "career_outcomes": {
+        "network": "Exceptional",
+        "brand_value": "Very high",
+        "global_exposure": "Very high",
+        "exit_opportunities": "Strong in fintech"
+      },
+      "work_conditions": {
+        "hours": "50+",
+        "leave": "Standard",
+        "weekend": "Occasional",
+        "overtime": "High",
+        "flexibility": "Remote/Hybrid",
+        "burnout_risk": "Moderate-High"
+      },
+      "final_assessment": {
+        "sustainability": "Moderate",
+        "crisis_behavior": "Resilient and adaptive",
+        "mission_clarity": "High"
+      },
+      "incorporation_year": 2015,
+      "intelligence_data": {
+        "company_tier": "Unknown",
+        "reasoning": "Failed to analyze data.",
+        "estimated_annual_hiring_volume": "Unknown",
+        "badges": []
+      }
+    }
+  }
+]

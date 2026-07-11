@@ -4,21 +4,22 @@ services:
   backend:
     image: realprojeeeeet-backend
     build: 
-      context: ./Lang
+      context: ./backend
       dockerfile: Dockerfile
     ports:
       - "8000:8000"
     env_file:
-      - ./Lang/.env
+      - ./backend/.env
+      - ./frontend/.env
     restart: unless-stopped
 
   frontend:
     image: realprojeeeeet-frontend
     build:
-      context: ./campus-compass-main/campus-compass-main
+      context: ./frontend
       dockerfile: Dockerfile
     ports:
-      - "80:80" # Maps localhost:80 to container port 80
+      - "3000:80" # Maps localhost:3000 to container port 80
     depends_on:
       - backend
     restart: unless-stopped

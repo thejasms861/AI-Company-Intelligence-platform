@@ -13,11 +13,11 @@ pipeline {
                 script {
                     // Copy the secure .env files to their respective folders
                     if (isUnix()) {
-                        sh 'cp $ENV_BACKEND ./Lang/.env'
-                        sh 'cp $ENV_FRONTEND ./campus-compass-main/campus-compass-main/.env'
+                        sh 'cp $ENV_BACKEND ./backend/.env'
+                        sh 'cp $ENV_FRONTEND ./frontend/.env'
                     } else {
-                        bat 'copy "%ENV_BACKEND%" ".\\Lang\\.env"'
-                        bat 'copy "%ENV_FRONTEND%" ".\\campus-compass-main\\campus-compass-main\\.env"'
+                        bat 'copy "%ENV_BACKEND%" ".\\backend\\.env"'
+                        bat 'copy "%ENV_FRONTEND%" ".\\frontend\\.env"'
                     }
                 }
             }
@@ -25,7 +25,7 @@ pipeline {
         
         stage('Front-end Pipeline') {
             steps {
-                dir('campus-compass-main/campus-compass-main') {
+                dir('frontend') {
                     script {
                         // Install dependencies and build docker image
                         if (isUnix()) {
@@ -44,7 +44,7 @@ pipeline {
 
         stage('Back-end Pipeline') {
             steps {
-                dir('Lang') {
+                dir('backend') {
                     script {
                         // Build backend docker image (Dependencies installed during docker build)
                         if (isUnix()) {
@@ -78,11 +78,11 @@ pipeline {
             script {
                 // Security Cleanup: Delete the .env files so they don't stay on the server
                 if (isUnix()) {
-                    sh 'rm -f ./Lang/.env'
-                    sh 'rm -f ./campus-compass-main/campus-compass-main/.env'
+                    sh 'rm -f ./backend/.env'
+                    sh 'rm -f ./frontend/.env'
                 } else {
-                    bat 'if exist ".\\Lang\\.env" del ".\\Lang\\.env"'
-                    bat 'if exist ".\\campus-compass-main\\campus-compass-main\\.env" del ".\\campus-compass-main\\campus-compass-main\\.env"'
+                    bat 'if exist ".\\backend\\.env" del ".\\backend\\.env"'
+                    bat 'if exist ".\\frontend\\.env" del ".\\frontend\\.env"'
                 }
             }
         }
